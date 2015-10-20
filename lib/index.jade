@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+html(lang="en")
+head
+	meta(charset="UTF-8")
+	title Grupo NM
+	link(rel="stylesheet", href="./public/css/styles.css")
+body
+	div(class="Layout")
+		div(class="Header")
+			div(class="Header-nav")
+				img(class="Header-nav_logo" src="./public/images/logognm.png", alt="")
+				ul(class="Header-nav_list")
+					l1(class="Header-nav_items") SECTORES QUE SERVIMOS
+					img(src="./public/images/separadores2.png", alt="")
+					l1(class="Header-nav_items") NUESTROS SERVICIOS
+					img(src="./public/images/separadores2.png", alt="")
+					l1(class="Header-nav_items") SOLUCIONES DE EMBASADO
+					img(src="./public/images/separadores2.png", alt="")
+					l1(class="Header-nav_items") MAQUINARIA
+					img(src="./public/images/separadores2.png", alt="")
+					l1(class="Header-nav_items") REPRESENTACIONES	
+			div(class="Header-empresas")
+				h3(class="h3-Empresas") Nuestras Empresas
+				div(class="Header-empresas_logos")
+					a(href="http://epcys.com/")
+						img(src="./public/svg/logoEpcys.svg", alt="", class="Header-empresas_Epcys")
+					a(href="http://novameats.com.ec/")			
+						img(src="./public/svg/logoNova.svg", alt="", class="Header-empresas_Nova")
+
+		// SECTORES
+
+		div(class="Sectores")
+			div(class="Sectores-titulo") SECTORES QUE SERVIMOS
+				ul(class="Sectores-titulo_list") 
+					each item in ["CARNES PROCESADAS", "CARNES FRESCAS", "AVES", "QUESOS Y LACTEOS", "PESCADOS Y MARISCOS", "FRUTAS Y VEGETALES", "LIQUIDOS", "HO.RE.CA"]
+						li= item					
+			div(class="Sectores-gallery")
+				img(src="./public/images/carneProcesada.jpg", alt="Carne Procesada", class="Sectores-gallery_img")
+
+		// SERVICIOS
+
+		div(class="Servicios")
+			p(class="Servicios-titulo") NUESTROS SERVICIOS
+			div(class="Contenedor-circulos")
+				div(class="Contenedor-circulos_arriba")
+					div(class="Servicios-circulos")
+						h2 DISEÑO DE EMPAQUES
+						p DESARROLLO A LA MEDIDA
+					div(class="Servicios-circulos")
+						h2 IMPRESIÓN
+						p 7 COLORES POR LADO, TIPO FOTOGRAFIA PRUEBAS ANTES DE LA IMPRESIÓN
+					div(class="Servicios-circulos")
+						h2 INVESTIGACIÓN
+						p BUSQUEDA CONSTANTE DE NUEVAS ALTERNATIVAS
+				div(class="Contenedor-circulos_abajo")
+					div(class="Servicios-circulos")
+						h2(class="h2-abajo") ASESORÍA CORTES CÁRNICOS
+					div(class="Servicios-circulos")
+						h2(class="h2-abajo") SERVICIO TÉCNICO
+					div(class="Servicios-circulos")
+						h2(class="h2-abajo") CAPACITACIONES Y CURSOS
+
+		// EMBASADO
+
+		div(class="Embasado")
+			h2(class="Embasado-titulo") SOLUCIONES DE EMBASADO
+			div(class="Embasado-layout")
+				div(class="Embasado-colIzq")
+					h3 BOLSAS TERMOENCOGIBLES (PVDC) 56 MICRONES
+					ul
+						each items in ["SB15 CARNES PROCESADAS (ALTA BARRERA)", "SB15 CARNES FRESCAS (ALTA BARRERA)", "SB 3000  PAVOS Y POLLOS FRESCO Y COGELADOS (SIN BARRERA)", "SB100 QUESOS FRESCO  (MEDIA BARRERA)", "IMPRESIÓN HASTA 8 COLORES X LADO", "SELLO REDONDO", "VARIOS COLORES"]
+							li= items
+					h3 BOLSAS TERMOENCOGIBLES (PVDC) 76 MICRONES
+					ul 
+						each items in ["SB15 PRO TITE CORTES CON HUESO (ALTA BARRERA)"]
+							li= items
+					h3 BOLSAS NYLON POLY (TRES SELLOS)
+					ul 
+						each items in ["BOLSAS DESDE 50  - 120 MICRONES"]
+							li= items
+					h3 PELICULA EVOH 
+					ul
+						each items in ["BOLSA UHT (LECHES)","MATERIAL LARGA VIDA"]
+							li= items
+					h3 TRIPA CELULOSA  (SALCHICHAS) WIENIEPAK
+					ul
+						each items in ["CALIBRES DESDE 13 - 40","REGULAR, IMPRESA, FACIL PELADO Y GRILL SMASH"]
+							li= items
+					h3 TRIPA FIBROSA (SALAMES)
+					ul
+						each items in ["CALIBRE DESDE 28 - 252 DRE","FACIL PELADO, REGULAR Y ALTA ADEHESION","VARIOS COLORES"]
+							li= items
+
+				// COLUMNA DERECHA
+
+				div(class="Embasado-colDer")
+					h3 TRIPA POLYAMIDA (JAMONES Y MORTADELAS) NOVA
+					ul
+						each items in ["CALIBRES DESDE 51 - 305 ANCHO PLANO","CALIBRES DESDE 34 - 205 DRE","VARIOS COLORES","DRE DIAMETRO RECOMENDADO EMBUTIDO"]
+							li= items
+					h3 TRIPA NATURAL DE CERDO
+					p#Embasado-colDer_subtitulo MADEJAS DE 10, 15 Y 22 PUNTAS
+					ul 
+						each items in ["30-32","32-35","35-37","37-40"]
+							li= items
+					p#Embasado-colDer_subtitulo TUBING  DE  7, 10, 12 PUNTAS
+					ul 
+						each items in ["32-35","35-39","40+"]
+							li= items
+					h3 TRIPA NATURAL DE CORDERO
+					p#Embasado-colDer_subtitulo MADEJAS
+					ul
+						each items in ["14-16","16-18","18-20","20-22","22-24","24-26"]
+							li= items
+					h3 TRIPA COLAGENO COMESTIBLE
+					ul
+						each items in ["CALIBRE DESDE 17- 38","VARIOS COLORES"]
+							li= items
+		
+		// MAQUINARIA
+		
+		div(class="Maquinaria")
+			div(class="Maquinaria-layout")
+				div(class="Maquinaria-representaciones")
+					p REPRESENTACIONES
+					div(class="Maquinaria-representaciones_logos")
+						a(href="http://www.viskoteepak.com/")
+							img(src="./public/svg/logoVisko.svg", alt="Viskoteepak", class="logo-visko")
+						a(href="http://www.valfilm.com.br/?language=es")		
+							img(src="./public/svg/logoValfilm.svg", alt="Valfilm", class="logo-valfilm")
+						a(href="http://www.edicas.es/Inici")		
+							img(src="./public/svg/logoEdicas.svg", alt="Edicas", class="logo-edicas")
+						a(href="http://190.107.176.73/~prodinwe/www/")
+							img(src="./public/svg/logoInsuban.svg", alt="Insuban", class="logo-insuban")
+				div(class="Maquinaria-fondo")
+					p(class="Maquinaria-fondo_titulo") MAQUINARIA
+					div(class="Maquinaria-fondo_logos")
+						a(href="http://www.grasselli.com/es")
+							img(src="./public/svg/logoGrasselliBlanco.svg", alt="Grasselli", class="logo-grasselli")
+						a(href="http://www.medocsa.com/")
+							img(src="./public/images/logoMedoc.jpg", alt="Medoc", class="logo-medoc")
+						a(href="http://www.braher.com/")
+							img(src="./public/images/logoBraher.png", alt="Braher", class="logo-braher")
+			// FOOTER
+		div(class="Footer")
+			div(class="Footer-layout")
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") SECTORES QUE SERVIMOS
+					ul(class="Footer-texto")
+						each items in ["CARNES PROCESADAS","CARNES FRESCAS","AVES","QUESOS Y LACTEOS","PESCADOS Y MARISCOS","FRUTAS Y VEGETALES","LIQUIDOS","HO.RE.CA"]
+							li= items
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") NUESTROS SERVICIOS
+					ul(class="Footer-texto")
+						each items in ["DISEÑO DE EMPAQUES","IMPRESIÓN","INVESTIGACIÓN","ASESORÍA CORTES CÁRNICOS","SERVICIO TÉCNICO","CAPACITACIONES Y CURSOS"]
+							li= items
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") SOLUCIONES DE EMBASADO
+					ul(class="Footer-texto")
+						each items in ["BOLSAS TERMOENCOGIBLES (PVDC) 56 MICRONES","BOLSAS TERMOENCOGIBLES (PVDC) 76 MICRONES","BOLSAS NYLON POLY (TRES SELLOS)","PELICULA EVOH","TRIPA CELULOSA  (SALCHICHAS) WIENIEPAK","TRIPA FIBROSA (SALAMES)","TRIPA POLYAMIDA (JAMONES Y MORTADELAS) NOVA","TRIPA NATURAL DE CERDO","TRIPA NATURAL DE CORDERO","TRIPA COLAGENO COMESTIBLE"]
+							li= items
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") MAQUINARIA
+					ul(class="Footer-texto")
+						each items in ["DESCORTEZADORAS Y DEVELADORAS","REBANADORAS DE PESO CONTROLADO CWS","CORTADORES INDUSTRIALES","CORTADORAS AL POR MENOR","MOLINOS","EMBUTIDORAS PISTON","MEZCLADORAS","CUTTERS","MARMITAS"]
+							li= items
+			div(class="Footer-layout_copy")
+				p Epcys y Nova Meats forman parte del 
+					a(href='http://gruponm.com/', class="linkGNM") Grupo NM | 
+					|Todos los derechos reservados © 2015

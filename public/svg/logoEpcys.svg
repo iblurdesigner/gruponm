@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="147 163 294 82" enable-background="new 147 163 294 82" xml:space="preserve">
+<g>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="186.75" y1="372.5319" x2="186.75" y2="344.9098" gradientTransform="matrix(1 0 0 -1 0 560)">
+			<stop  offset="0" style="stop-color:#2E346C"/>
+			<stop  offset="1" style="stop-color:#000021"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M154,204.4c0,0,11.1,7.1,31.6,9.8c18.9,2.5,33.9-1.1,33.9-1.1l-36.6-25.6L154,204.4z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="187.4" y1="385.1" x2="187.4" y2="327.6062" gradientTransform="matrix(1 0 0 -1 0 560)">
+			<stop  offset="0" style="stop-color:#70A7C4"/>
+			<stop  offset="1" style="stop-color:#6190B1"/>
+		</linearGradient>
+		<circle fill="url(#SVGID_2_)" cx="187.4" cy="203.6" r="28.7"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="167.5538" y1="383.4234" x2="202.2063" y2="336.0437" gradientTransform="matrix(1 0 0 -1 0 560)">
+			<stop  offset="0" style="stop-color:#5AA0C1"/>
+			<stop  offset="1" style="stop-color:#191A40"/>
+		</linearGradient>
+		<path fill="url(#SVGID_3_)" d="M215.6,185.7c3.3,5.2,5.2,11.3,5.2,17.9c0,3.3-0.5,6.4-1.4,9.4c-10.8-2.3-21.5-5.1-32.2-7.7
+			c-10.4-2.6-22.8-4.3-33.3-1c0-0.2,0-0.5,0-0.7c0-13.7,8.3-25.5,20.1-30.6c5.7,3.2,12.2,6.7,17.7,8.5
+			C198.6,183.7,207.2,184.8,215.6,185.7z M198,213.1c-12.7-3.2-30.2-8.9-43.6-3.9c2.7,15.8,16.4,27.9,33,27.9
+			c13.4,0,25-7.9,30.3-19.3C211.1,216.3,204.6,214.7,198,213.1z"/>
+		
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="218.8457" y1="365.4225" x2="199.9487" y2="369.3493" gradientTransform="matrix(1 0 0 -1 0 560)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</linearGradient>
+		<path opacity="0.15" fill="url(#SVGID_4_)" enable-background="new    " d="M190.2,199.4c12.3,0,23-3,28.6-7.4
+			c-0.8-2.2-1.9-4.3-3.1-6.3c-8.4-0.9-17.1-2-23.8-4.2c-5.6-1.8-12.1-5.3-17.7-8.5c-6.9,3-12.5,8.2-16,14.7
+			C161,194.4,174.3,199.4,190.2,199.4z"/>
+		<g opacity="0.35">
+			
+				<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="213.7838" y1="327.8404" x2="168.4213" y2="343.2135" gradientTransform="matrix(1 0 0 -1 0 560)">
+				<stop  offset="0" style="stop-color:#5AA0C1"/>
+				<stop  offset="1" style="stop-color:#191A40"/>
+			</linearGradient>
+			<path fill="url(#SVGID_5_)" d="M203.7,214.5c-1.4,11.1-13.7,19.8-28.9,20.1c3.9,1.6,8.2,2.5,12.7,2.5c13.4,0,25-7.9,30.3-19.3
+				C213,216.7,208.3,215.6,203.7,214.5z"/>
+		</g>
+		<g>
+			<circle fill="#5AA0C1" fill-opacity="0" cx="174" cy="183.2" r="7.8"/>
+			<circle opacity="7.874016e-03" fill="#5BA1C1" enable-background="new    " cx="174" cy="183.2" r="7.8"/>
+			<circle opacity="1.574803e-02" fill="#5DA1C2" enable-background="new    " cx="174" cy="183.2" r="7.7"/>
+			<circle opacity="2.362205e-02" fill="#5EA2C2" enable-background="new    " cx="174" cy="183.2" r="7.7"/>
+			<circle opacity="3.149606e-02" fill="#5FA2C2" enable-background="new    " cx="174" cy="183.2" r="7.6"/>
+			<circle opacity="3.937008e-02" fill="#60A3C3" enable-background="new    " cx="174" cy="183.2" r="7.6"/>
+			<circle opacity="4.724409e-02" fill="#62A3C3" enable-background="new    " cx="174" cy="183.2" r="7.5"/>
+			<circle opacity="5.511811e-02" fill="#63A4C3" enable-background="new    " cx="174" cy="183.2" r="7.4"/>
+			<circle opacity="6.299213e-02" fill="#64A4C4" enable-background="new    " cx="174" cy="183.2" r="7.4"/>
+			<circle opacity="7.086615e-02" fill="#66A5C4" enable-background="new    " cx="174" cy="183.2" r="7.3"/>
+			<circle opacity="7.874016e-02" fill="#67A5C5" enable-background="new    " cx="174" cy="183.2" r="7.3"/>
+			<circle opacity="8.661418e-02" fill="#68A6C5" enable-background="new    " cx="174" cy="183.2" r="7.2"/>
+			<circle opacity="9.448819e-02" fill="#69A6C5" enable-background="new    " cx="174" cy="183.2" r="7.2"/>
+			<circle opacity="0.1024" fill="#6AA7C6" enable-background="new    " cx="174" cy="183.2" r="7.1"/>
+			<circle opacity="0.1102" fill="#6CA7C6" enable-background="new    " cx="174" cy="183.2" r="7"/>
+			<circle opacity="0.1181" fill="#6DA8C6" enable-background="new    " cx="174" cy="183.2" r="7"/>
+			<circle opacity="0.126" fill="#6EA9C7" enable-background="new    " cx="174" cy="183.2" r="6.9"/>
+			<circle opacity="0.1339" fill="#6FA9C7" enable-background="new    " cx="174" cy="183.2" r="6.9"/>
+			<circle opacity="0.1417" fill="#70AAC8" enable-background="new    " cx="174" cy="183.2" r="6.8"/>
+			<circle opacity="0.1496" fill="#72AAC8" enable-background="new    " cx="174" cy="183.2" r="6.8"/>
+			<circle opacity="0.1575" fill="#73ABC8" enable-background="new    " cx="174" cy="183.2" r="6.7"/>
+			<circle opacity="0.1654" fill="#74ABC9" enable-background="new    " cx="174" cy="183.2" r="6.7"/>
+			<circle opacity="0.1732" fill="#75ACC9" enable-background="new    " cx="174" cy="183.2" r="6.6"/>
+			<circle opacity="0.1811" fill="#76ADCA" enable-background="new    " cx="174" cy="183.2" r="6.5"/>
+			<circle opacity="0.189" fill="#78ADCA" enable-background="new    " cx="174" cy="183.2" r="6.5"/>
+			<circle opacity="0.1969" fill="#79AECA" enable-background="new    " cx="174" cy="183.2" r="6.4"/>
+			<circle opacity="0.2047" fill="#7AAECB" enable-background="new    " cx="174" cy="183.2" r="6.4"/>
+			<circle opacity="0.2126" fill="#7BAFCB" enable-background="new    " cx="174" cy="183.2" r="6.3"/>
+			<circle opacity="0.2205" fill="#7CAFCB" enable-background="new    " cx="174" cy="183.2" r="6.3"/>
+			<circle opacity="0.2283" fill="#7DB0CC" enable-background="new    " cx="174" cy="183.2" r="6.2"/>
+			<circle opacity="0.2362" fill="#7FB1CC" enable-background="new    " cx="174" cy="183.2" r="6.1"/>
+			<circle opacity="0.2441" fill="#80B1CD" enable-background="new    " cx="174" cy="183.2" r="6.1"/>
+			<circle opacity="0.252" fill="#81B2CD" enable-background="new    " cx="174" cy="183.2" r="6"/>
+			<circle opacity="0.2598" fill="#82B2CD" enable-background="new    " cx="174" cy="183.2" r="6"/>
+			<circle opacity="0.2677" fill="#83B3CE" enable-background="new    " cx="174" cy="183.2" r="5.9"/>
+			<circle opacity="0.2756" fill="#84B4CE" enable-background="new    " cx="174" cy="183.2" r="5.9"/>
+			<circle opacity="0.2835" fill="#86B4CF" enable-background="new    " cx="174" cy="183.2" r="5.8"/>
+			<circle opacity="0.2913" fill="#87B5CF" enable-background="new    " cx="174" cy="183.2" r="5.7"/>
+			<circle opacity="0.2992" fill="#88B5CF" enable-background="new    " cx="174" cy="183.2" r="5.7"/>
+			<circle opacity="0.3071" fill="#89B6D0" enable-background="new    " cx="174" cy="183.2" r="5.6"/>
+			<circle opacity="0.315" fill="#8AB7D0" enable-background="new    " cx="174" cy="183.2" r="5.6"/>
+			<circle opacity="0.3228" fill="#8BB7D1" enable-background="new    " cx="174" cy="183.2" r="5.5"/>
+			<circle opacity="0.3307" fill="#8CB8D1" enable-background="new    " cx="174" cy="183.2" r="5.5"/>
+			<circle opacity="0.3386" fill="#8EB9D2" enable-background="new    " cx="174" cy="183.2" r="5.4"/>
+			<circle opacity="0.3465" fill="#8FB9D2" enable-background="new    " cx="174" cy="183.2" r="5.3"/>
+			<circle opacity="0.3543" fill="#90BAD2" enable-background="new    " cx="174" cy="183.2" r="5.3"/>
+			<circle opacity="0.3622" fill="#91BAD3" enable-background="new    " cx="174" cy="183.2" r="5.2"/>
+			<circle opacity="0.3701" fill="#92BBD3" enable-background="new    " cx="174" cy="183.2" r="5.2"/>
+			<circle opacity="0.378" fill="#94BCD4" enable-background="new    " cx="174" cy="183.2" r="5.1"/>
+			<circle opacity="0.3858" fill="#95BCD4" enable-background="new    " cx="174" cy="183.2" r="5.1"/>
+			<circle opacity="0.3937" fill="#96BDD5" enable-background="new    " cx="174" cy="183.2" r="5"/>
+			<circle opacity="0.4016" fill="#97BED5" enable-background="new    " cx="174" cy="183.2" r="4.9"/>
+			<circle opacity="0.4094" fill="#98BED5" enable-background="new    " cx="174" cy="183.2" r="4.9"/>
+			<circle opacity="0.4173" fill="#99BFD6" enable-background="new    " cx="174" cy="183.2" r="4.8"/>
+			<circle opacity="0.4252" fill="#9BC0D6" enable-background="new    " cx="174" cy="183.2" r="4.8"/>
+			<circle opacity="0.4331" fill="#9CC0D7" enable-background="new    " cx="174" cy="183.2" r="4.7"/>
+			<circle opacity="0.4409" fill="#9DC1D7" enable-background="new    " cx="174" cy="183.2" r="4.7"/>
+			<circle opacity="0.4488" fill="#9EC2D8" enable-background="new    " cx="174" cy="183.2" r="4.6"/>
+			<circle opacity="0.4567" fill="#A0C3D8" enable-background="new    " cx="174" cy="183.2" r="4.5"/>
+			<circle opacity="0.4646" fill="#A1C3D9" enable-background="new    " cx="174" cy="183.2" r="4.5"/>
+			<circle opacity="0.4724" fill="#A2C4D9" enable-background="new    " cx="174" cy="183.2" r="4.4"/>
+			<circle opacity="0.4803" fill="#A3C5D9" enable-background="new    " cx="174" cy="183.2" r="4.4"/>
+			<circle opacity="0.4882" fill="#A4C5DA" enable-background="new    " cx="174" cy="183.2" r="4.3"/>
+			<circle opacity="0.4961" fill="#A6C6DA" enable-background="new    " cx="174" cy="183.2" r="4.3"/>
+			<circle opacity="0.5039" fill="#A7C7DB" enable-background="new    " cx="174" cy="183.2" r="4.2"/>
+			<circle opacity="0.5118" fill="#A8C7DB" enable-background="new    " cx="174" cy="183.2" r="4.1"/>
+			<circle opacity="0.5197" fill="#A9C8DC" enable-background="new    " cx="174" cy="183.2" r="4.1"/>
+			<circle opacity="0.5276" fill="#ABC9DC" enable-background="new    " cx="174" cy="183.2" r="4"/>
+			<circle opacity="0.5354" fill="#ACCADD" enable-background="new    " cx="174" cy="183.2" r="4"/>
+			<circle opacity="0.5433" fill="#ADCADD" enable-background="new    " cx="174" cy="183.2" r="3.9"/>
+			<circle opacity="0.5512" fill="#AECBDD" enable-background="new    " cx="174" cy="183.2" r="3.9"/>
+			<circle opacity="0.5591" fill="#B0CCDE" enable-background="new    " cx="174" cy="183.2" r="3.8"/>
+			<circle opacity="0.5669" fill="#B1CDDE" enable-background="new    " cx="174" cy="183.2" r="3.7"/>
+			<circle opacity="0.5748" fill="#B2CDDF" enable-background="new    " cx="174" cy="183.2" r="3.7"/>
+			<circle opacity="0.5827" fill="#B3CEDF" enable-background="new    " cx="174" cy="183.2" r="3.6"/>
+			<circle opacity="0.5906" fill="#B5CFE0" enable-background="new    " cx="174" cy="183.2" r="3.6"/>
+			<circle opacity="0.5984" fill="#B6D0E0" enable-background="new    " cx="174" cy="183.2" r="3.5"/>
+			<circle opacity="0.6063" fill="#B7D0E1" enable-background="new    " cx="174" cy="183.2" r="3.5"/>
+			<circle opacity="0.6142" fill="#B9D1E1" enable-background="new    " cx="174" cy="183.2" r="3.4"/>
+			<circle opacity="0.622" fill="#BAD2E2" enable-background="new    " cx="174" cy="183.2" r="3.4"/>
+			<circle opacity="0.6299" fill="#BBD3E2" enable-background="new    " cx="174" cy="183.2" r="3.3"/>
+			<circle opacity="0.6378" fill="#BCD3E3" enable-background="new    " cx="174" cy="183.2" r="3.2"/>
+			<circle opacity="0.6457" fill="#BED4E3" enable-background="new    " cx="174" cy="183.2" r="3.2"/>
+			<circle opacity="0.6535" fill="#BFD5E4" enable-background="new    " cx="174" cy="183.2" r="3.1"/>
+			<circle opacity="0.6614" fill="#C0D6E4" enable-background="new    " cx="174" cy="183.2" r="3.1"/>
+			<circle opacity="0.6693" fill="#C2D7E5" enable-background="new    " cx="174" cy="183.2" r="3"/>
+			<circle opacity="0.6772" fill="#C3D7E5" enable-background="new    " cx="174" cy="183.2" r="3"/>
+			<circle opacity="0.685" fill="#C4D8E6" enable-background="new    " cx="174" cy="183.2" r="2.9"/>
+			<circle opacity="0.6929" fill="#C6D9E6" enable-background="new    " cx="174" cy="183.2" r="2.8"/>
+			<circle opacity="0.7008" fill="#C7DAE7" enable-background="new    " cx="174" cy="183.2" r="2.8"/>
+			<circle opacity="0.7087" fill="#C8DBE7" enable-background="new    " cx="174" cy="183.2" r="2.7"/>
+			<circle opacity="0.7165" fill="#CADBE8" enable-background="new    " cx="174" cy="183.2" r="2.7"/>
+			<circle opacity="0.7244" fill="#CBDCE8" enable-background="new    " cx="174" cy="183.2" r="2.6"/>
+			<circle opacity="0.7323" fill="#CCDDE9" enable-background="new    " cx="174" cy="183.2" r="2.6"/>
+			<circle opacity="0.7402" fill="#CEDEE9" enable-background="new    " cx="174" cy="183.2" r="2.5"/>
+			<circle opacity="0.748" fill="#CFDFEA" enable-background="new    " cx="174" cy="183.2" r="2.4"/>
+			<circle opacity="0.7559" fill="#D0E0EA" enable-background="new    " cx="174" cy="183.2" r="2.4"/>
+			<circle opacity="0.7638" fill="#D2E0EB" enable-background="new    " cx="174" cy="183.2" r="2.3"/>
+			<circle opacity="0.7717" fill="#D3E1EB" enable-background="new    " cx="174" cy="183.2" r="2.3"/>
+			<circle opacity="0.7795" fill="#D4E2EC" enable-background="new    " cx="174" cy="183.2" r="2.2"/>
+			<circle opacity="0.7874" fill="#D6E3EC" enable-background="new    " cx="174" cy="183.2" r="2.2"/>
+			<circle opacity="0.7953" fill="#D7E4ED" enable-background="new    " cx="174" cy="183.2" r="2.1"/>
+			<circle opacity="0.8031" fill="#D8E5ED" enable-background="new    " cx="174" cy="183.2" r="2"/>
+			<circle opacity="0.811" fill="#DAE5EE" enable-background="new    " cx="174" cy="183.2" r="2"/>
+			<circle opacity="0.8189" fill="#DBE6EE" enable-background="new    " cx="174" cy="183.2" r="1.9"/>
+			<circle opacity="0.8268" fill="#DCE7EF" enable-background="new    " cx="174" cy="183.2" r="1.9"/>
+			<circle opacity="0.8346" fill="#DEE8EF" enable-background="new    " cx="174" cy="183.2" r="1.8"/>
+			<circle opacity="0.8425" fill="#DFE9F0" enable-background="new    " cx="174" cy="183.2" r="1.8"/>
+			<circle opacity="0.8504" fill="#E1EAF1" enable-background="new    " cx="174" cy="183.2" r="1.7"/>
+			<circle opacity="0.8583" fill="#E2EBF1" enable-background="new    " cx="174" cy="183.2" r="1.6"/>
+			<circle opacity="0.8661" fill="#E3ECF2" enable-background="new    " cx="174" cy="183.2" r="1.6"/>
+			<circle opacity="0.874" fill="#E5EDF2" enable-background="new    " cx="174" cy="183.2" r="1.5"/>
+			<circle opacity="0.8819" fill="#E6EEF3" enable-background="new    " cx="174" cy="183.2" r="1.5"/>
+			<circle opacity="0.8898" fill="#E8EFF4" enable-background="new    " cx="174" cy="183.2" r="1.4"/>
+			<circle opacity="0.8976" fill="#E9F0F4" enable-background="new    " cx="174" cy="183.2" r="1.4"/>
+			<circle opacity="0.9055" fill="#EAF0F5" enable-background="new    " cx="174" cy="183.2" r="1.3"/>
+			<circle opacity="0.9134" fill="#ECF1F6" enable-background="new    " cx="174" cy="183.2" r="1.2"/>
+			<circle opacity="0.9213" fill="#EDF2F6" enable-background="new    " cx="174" cy="183.2" r="1.2"/>
+			<circle opacity="0.9291" fill="#EFF3F7" enable-background="new    " cx="174" cy="183.2" r="1.1"/>
+			<circle opacity="0.937" fill="#F0F5F8" enable-background="new    " cx="174" cy="183.2" r="1.1"/>
+			<circle opacity="0.9449" fill="#F2F6F8" enable-background="new    " cx="174" cy="183.2" r="1"/>
+			<circle opacity="0.9528" fill="#F3F7F9" enable-background="new    " cx="174" cy="183.2" r="1"/>
+			<circle opacity="0.9606" fill="#F5F8FA" enable-background="new    " cx="174" cy="183.2" r="0.9"/>
+			<circle opacity="0.9685" fill="#F6F9FB" enable-background="new    " cx="174" cy="183.2" r="0.8"/>
+			<circle opacity="0.9764" fill="#F8FAFC" enable-background="new    " cx="174" cy="183.2" r="0.8"/>
+			<circle opacity="0.9843" fill="#FAFCFD" enable-background="new    " cx="174" cy="183.2" r="0.7"/>
+			<circle opacity="0.9921" fill="#FCFDFE" enable-background="new    " cx="174" cy="183.2" r="0.7"/>
+			<circle fill="#FFFFFF" cx="174" cy="183.2" r="0.6"/>
+		</g>
+		<g opacity="0.5">
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7414 236.6697)" fill="#5AA0C1" fill-opacity="0" cx="204.3" cy="224.2" rx="5.2" ry="3.4"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7417 236.6693)" opacity="1.190476e-02" fill="#5CA1C2" enable-background="new    " cx="204.3" cy="224.2" rx="5.1" ry="3.3"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.742 236.6687)" opacity="2.380952e-02" fill="#5EA2C2" enable-background="new    " cx="204.3" cy="224.2" rx="5.1" ry="3.3"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7422 236.6683)" opacity="3.571429e-02" fill="#60A2C3" enable-background="new    " cx="204.3" cy="224.2" rx="5" ry="3.2"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7425 236.6678)" opacity="4.761905e-02" fill="#62A3C3" enable-background="new    " cx="204.3" cy="224.2" rx="5" ry="3.2"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7427 236.6673)" opacity="5.952381e-02" fill="#64A4C4" enable-background="new    " cx="204.3" cy="224.2" rx="4.9" ry="3.2"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.743 236.6668)" opacity="7.142857e-02" fill="#66A5C4" enable-background="new    " cx="204.3" cy="224.2" rx="4.8" ry="3.1"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7433 236.6663)" opacity="8.333334e-02" fill="#68A6C5" enable-background="new    " cx="204.3" cy="224.2" rx="4.8" ry="3.1"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7436 236.6657)" opacity="9.523810e-02" fill="#69A6C5" enable-background="new    " cx="204.3" cy="224.2" rx="4.7" ry="3.1"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7439 236.6652)" opacity="0.1071" fill="#6BA7C6" enable-background="new    " cx="204.3" cy="224.2" rx="4.7" ry="3"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7442 236.6646)" opacity="0.119" fill="#6DA8C6" enable-background="new    " cx="204.3" cy="224.2" rx="4.6" ry="3"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7444 236.6641)" opacity="0.131" fill="#6FA9C7" enable-background="new    " cx="204.3" cy="224.2" rx="4.6" ry="2.9"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7448 236.6635)" opacity="0.1429" fill="#71AAC8" enable-background="new    " cx="204.3" cy="224.2" rx="4.5" ry="2.9"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7451 236.6629)" opacity="0.1548" fill="#72ABC8" enable-background="new    " cx="204.3" cy="224.2" rx="4.4" ry="2.9"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7455 236.6622)" opacity="0.1667" fill="#74ABC9" enable-background="new    " cx="204.3" cy="224.2" rx="4.4" ry="2.8"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7458 236.6616)" opacity="0.1786" fill="#76ACC9" enable-background="new    " cx="204.3" cy="224.2" rx="4.3" ry="2.8"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7461 236.6609)" opacity="0.1905" fill="#78ADCA" enable-background="new    " cx="204.3" cy="224.2" rx="4.3" ry="2.8"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7465 236.6603)" opacity="0.2024" fill="#7AAECB" enable-background="new    " cx="204.3" cy="224.2" rx="4.2" ry="2.7"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7468 236.6596)" opacity="0.2143" fill="#7BAFCB" enable-background="new    " cx="204.3" cy="224.2" rx="4.2" ry="2.7"/>
+			
+				<ellipse transform="matrix(0.6426 -0.7662 0.7662 0.6426 -98.7472 236.6589)" opacity="0.2262" fill="#7DB0CC" enable-background="new    " cx="204.3" cy="224.2" rx="4.1" ry="2.7"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.723 236.6912)" opacity="0.2381" fill="#7FB1CC" enable-background="new    " cx="204.3" cy="224.2" rx="4" ry="2.6"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7234 236.6905)" opacity="0.25" fill="#81B2CD" enable-background="new    " cx="204.3" cy="224.2" rx="4" ry="2.6"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7238 236.6897)" opacity="0.2619" fill="#82B3CE" enable-background="new    " cx="204.3" cy="224.2" rx="3.9" ry="2.5"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7333 236.7321)" opacity="0.2738" fill="#84B3CE" enable-background="new    " cx="204.3" cy="224.2" rx="3.9" ry="2.5"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7337 236.7313)" opacity="0.2857" fill="#86B4CF" enable-background="new    " cx="204.3" cy="224.2" rx="3.8" ry="2.5"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7342 236.7304)" opacity="0.2976" fill="#88B5CF" enable-background="new    " cx="204.3" cy="224.2" rx="3.8" ry="2.4"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7346 236.7295)" opacity="0.3095" fill="#89B6D0" enable-background="new    " cx="204.3" cy="224.2" rx="3.7" ry="2.4"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7351 236.7287)" opacity="0.3214" fill="#8BB7D1" enable-background="new    " cx="204.3" cy="224.2" rx="3.6" ry="2.4"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7355 236.7277)" opacity="0.3333" fill="#8DB8D1" enable-background="new    " cx="204.3" cy="224.2" rx="3.6" ry="2.3"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7361 236.7267)" opacity="0.3452" fill="#8FB9D2" enable-background="new    " cx="204.3" cy="224.2" rx="3.5" ry="2.3"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7366 236.7257)" opacity="0.3571" fill="#90BAD3" enable-background="new    " cx="204.3" cy="224.2" rx="3.5" ry="2.2"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7371 236.7247)" opacity="0.369" fill="#92BBD3" enable-background="new    " cx="204.3" cy="224.2" rx="3.4" ry="2.2"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7377 236.7236)" opacity="0.381" fill="#94BCD4" enable-background="new    " cx="204.3" cy="224.2" rx="3.4" ry="2.2"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7383 236.7226)" opacity="0.3929" fill="#96BDD5" enable-background="new    " cx="204.3" cy="224.2" rx="3.3" ry="2.1"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7388 236.7215)" opacity="0.4048" fill="#98BED5" enable-background="new    " cx="204.3" cy="224.2" rx="3.2" ry="2.1"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7394 236.7203)" opacity="0.4167" fill="#99BFD6" enable-background="new    " cx="204.3" cy="224.2" rx="3.2" ry="2.1"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7401 236.7191)" opacity="0.4286" fill="#9BC0D7" enable-background="new    " cx="204.3" cy="224.2" rx="3.1" ry="2"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7407 236.7178)" opacity="0.4405" fill="#9DC1D7" enable-background="new    " cx="204.3" cy="224.2" rx="3.1" ry="2"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7414 236.7164)" opacity="0.4524" fill="#9FC2D8" enable-background="new    " cx="204.3" cy="224.2" rx="3" ry="2"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7421 236.7151)" opacity="0.4643" fill="#A1C3D9" enable-background="new    " cx="204.3" cy="224.2" rx="3" ry="1.9"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7429 236.7137)" opacity="0.4762" fill="#A3C4D9" enable-background="new    " cx="204.3" cy="224.2" rx="2.9" ry="1.9"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7437 236.7122)" opacity="0.4881" fill="#A4C5DA" enable-background="new    " cx="204.3" cy="224.2" rx="2.8" ry="1.8"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7445 236.7107)" opacity="0.5" fill="#A6C6DB" enable-background="new    " cx="204.3" cy="224.2" rx="2.8" ry="1.8"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7453 236.7091)" opacity="0.5119" fill="#A8C8DB" enable-background="new    " cx="204.3" cy="224.2" rx="2.7" ry="1.8"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7462 236.7074)" opacity="0.5238" fill="#AAC9DC" enable-background="new    " cx="204.3" cy="224.2" rx="2.7" ry="1.7"/>
+			
+				<ellipse transform="matrix(0.6425 -0.7663 0.7663 0.6425 -98.7471 236.7057)" opacity="0.5357" fill="#ACCADD" enable-background="new    " cx="204.3" cy="224.2" rx="2.6" ry="1.7"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7663 0.7663 0.6424 -98.7234 236.737)" opacity="0.5476" fill="#AECBDD" enable-background="new    " cx="204.3" cy="224.2" rx="2.6" ry="1.7"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7663 0.7663 0.6424 -98.7244 236.735)" opacity="0.5595" fill="#B0CCDE" enable-background="new    " cx="204.3" cy="224.2" rx="2.5" ry="1.6"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7663 0.7663 0.6424 -98.7254 236.7331)" opacity="0.5714" fill="#B2CDDF" enable-background="new    " cx="204.3" cy="224.2" rx="2.5" ry="1.6"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7663 0.7663 0.6424 -98.7265 236.731)" opacity="0.5833" fill="#B4CEDF" enable-background="new    " cx="204.3" cy="224.2" rx="2.4" ry="1.6"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7367 236.7719)" opacity="0.5952" fill="#B6CFE0" enable-background="new    " cx="204.3" cy="224.2" rx="2.3" ry="1.5"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7379 236.7696)" opacity="0.6071" fill="#B7D0E1" enable-background="new    " cx="204.3" cy="224.2" rx="2.3" ry="1.5"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7391 236.7672)" opacity="0.619" fill="#B9D2E2" enable-background="new    " cx="204.3" cy="224.2" rx="2.2" ry="1.4"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7405 236.7647)" opacity="0.631" fill="#BBD3E2" enable-background="new    " cx="204.3" cy="224.2" rx="2.2" ry="1.4"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7418 236.762)" opacity="0.6429" fill="#BDD4E3" enable-background="new    " cx="204.3" cy="224.2" rx="2.1" ry="1.4"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7433 236.7592)" opacity="0.6548" fill="#BFD5E4" enable-background="new    " cx="204.3" cy="224.2" rx="2.1" ry="1.3"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7449 236.7563)" opacity="0.6667" fill="#C1D6E4" enable-background="new    " cx="204.3" cy="224.2" rx="2" ry="1.3"/>
+			
+				<ellipse transform="matrix(0.6424 -0.7664 0.7664 0.6424 -98.7465 236.7531)" opacity="0.6786" fill="#C3D8E5" enable-background="new    " cx="204.3" cy="224.2" rx="1.9" ry="1.3"/>
+			
+				<ellipse transform="matrix(0.6423 -0.7664 0.7664 0.6423 -98.7236 236.7828)" opacity="0.6905" fill="#C5D9E6" enable-background="new    " cx="204.3" cy="224.2" rx="1.9" ry="1.2"/>
+			
+				<ellipse transform="matrix(0.6423 -0.7664 0.7664 0.6423 -98.7254 236.7793)" opacity="0.7024" fill="#C7DAE7" enable-background="new    " cx="204.3" cy="224.2" rx="1.8" ry="1.2"/>
+			
+				<ellipse transform="matrix(0.6423 -0.7664 0.7664 0.6423 -98.7275 236.7755)" opacity="0.7143" fill="#C9DBE7" enable-background="new    " cx="204.3" cy="224.2" rx="1.8" ry="1.1"/>
+			
+				<ellipse transform="matrix(0.6423 -0.7664 0.7664 0.6423 -98.7295 236.7715)" opacity="0.7262" fill="#CBDCE8" enable-background="new    " cx="204.3" cy="224.2" rx="1.7" ry="1.1"/>
+			
+				<ellipse transform="matrix(0.6423 -0.7665 0.7665 0.6423 -98.7408 236.8103)" opacity="0.7381" fill="#CDDEE9" enable-background="new    " cx="204.3" cy="224.2" rx="1.7" ry="1.1"/>
+			
+				<ellipse transform="matrix(0.6423 -0.7665 0.7665 0.6423 -98.7432 236.8057)" opacity="0.75" fill="#CFDFEA" enable-background="new    " cx="204.3" cy="224.2" rx="1.6" ry="1"/>
+			
+				<ellipse transform="matrix(0.6423 -0.7665 0.7665 0.6423 -98.7458 236.8007)" opacity="0.7619" fill="#D1E0EA" enable-background="new    " cx="204.3" cy="224.2" rx="1.5" ry="1"/>
+			
+				<ellipse transform="matrix(0.6422 -0.7665 0.7665 0.6422 -98.724 236.8284)" opacity="0.7738" fill="#D3E1EB" enable-background="new    " cx="204.3" cy="224.2" rx="1.5" ry="1"/>
+			
+				<ellipse transform="matrix(0.6422 -0.7665 0.7665 0.6422 -98.7269 236.8227)" opacity="0.7857" fill="#D5E3EC" enable-background="new    " cx="204.3" cy="224.2" rx="1.4" ry="0.9"/>
+			
+				<ellipse transform="matrix(0.6422 -0.7665 0.7665 0.6422 -98.7302 236.8165)" opacity="0.7976" fill="#D7E4ED" enable-background="new    " cx="204.3" cy="224.2" rx="1.4" ry="0.9"/>
+			
+				<ellipse transform="matrix(0.6422 -0.7666 0.7666 0.6422 -98.7428 236.8528)" opacity="0.8095" fill="#D9E5EE" enable-background="new    " cx="204.3" cy="224.2" rx="1.3" ry="0.9"/>
+			
+				<ellipse transform="matrix(0.6422 -0.7666 0.7666 0.6422 -98.7467 236.8454)" opacity="0.8214" fill="#DBE7EE" enable-background="new    " cx="204.3" cy="224.2" rx="1.3" ry="0.8"/>
+			
+				<ellipse transform="matrix(0.6421 -0.7666 0.7666 0.6421 -98.7262 236.8704)" opacity="0.8333" fill="#DEE8EF" enable-background="new    " cx="204.3" cy="224.2" rx="1.2" ry="0.8"/>
+			
+				<ellipse transform="matrix(0.6421 -0.7666 0.7666 0.6421 -98.7308 236.8616)" opacity="0.8452" fill="#E0E9F0" enable-background="new    " cx="204.3" cy="224.2" rx="1.1" ry="0.7"/>
+			<path opacity="0.8571" fill="#E2EBF1" enable-background="new    " d="M204.9,224.7c-0.4,0.5-0.9,0.6-1.2,0.4
+				c-0.3-0.3-0.2-0.8,0.2-1.3s0.9-0.6,1.2-0.4C205.3,223.6,205.3,224.2,204.9,224.7z"/>
+			<path opacity="0.869" fill="#E4ECF2" enable-background="new    " d="M204.9,224.7c-0.4,0.4-0.9,0.6-1.2,0.4
+				c-0.3-0.2-0.2-0.8,0.2-1.2s0.9-0.6,1.2-0.4C205.3,223.7,205.2,224.2,204.9,224.7z"/>
+			<path opacity="0.881" fill="#E6EDF3" enable-background="new    " d="M204.8,224.6c-0.3,0.4-0.8,0.6-1.1,0.3
+				c-0.3-0.2-0.2-0.7,0.1-1.2c0.3-0.4,0.8-0.6,1.1-0.3C205.2,223.7,205.2,224.2,204.8,224.6z"/>
+			<path opacity="0.8929" fill="#E8EFF4" enable-background="new    " d="M204.8,224.6c-0.3,0.4-0.8,0.5-1,0.3
+				c-0.3-0.2-0.2-0.7,0.1-1.1c0.3-0.4,0.8-0.5,1-0.3C205.2,223.7,205.1,224.2,204.8,224.6z"/>
+			<path opacity="0.9048" fill="#EAF0F5" enable-background="new    " d="M204.8,224.6c-0.3,0.4-0.7,0.5-1,0.3
+				c-0.2-0.2-0.2-0.7,0.1-1c0.3-0.4,0.7-0.5,1-0.3C205.1,223.8,205.1,224.2,204.8,224.6z"/>
+			<path opacity="0.9167" fill="#ECF2F6" enable-background="new    " d="M204.7,224.6c-0.3,0.3-0.7,0.5-0.9,0.3s-0.2-0.6,0.1-1
+				c0.3-0.3,0.7-0.5,0.9-0.3C205.1,223.8,205,224.2,204.7,224.6z"/>
+			<path opacity="0.9286" fill="#EFF3F7" enable-background="new    " d="M204.7,224.5c-0.3,0.3-0.6,0.4-0.9,0.3
+				c-0.2-0.2-0.2-0.6,0.1-0.9c0.3-0.3,0.6-0.4,0.9-0.3C205,223.8,205,224.2,204.7,224.5z"/>
+			<path opacity="0.9405" fill="#F1F5F8" enable-background="new    " d="M204.7,224.5c-0.2,0.3-0.6,0.4-0.8,0.2s-0.1-0.5,0.1-0.8
+				c0.2-0.3,0.6-0.4,0.8-0.2C205,223.8,204.9,224.2,204.7,224.5z"/>
+			<path opacity="0.9524" fill="#F3F7F9" enable-background="new    " d="M204.7,224.5c-0.2,0.3-0.5,0.4-0.7,0.2
+				c-0.2-0.1-0.1-0.5,0.1-0.7c0.2-0.3,0.5-0.4,0.7-0.2C204.9,223.9,204.9,224.2,204.7,224.5z"/>
+			<path opacity="0.9643" fill="#F6F8FB" enable-background="new    " d="M204.6,224.5c-0.2,0.2-0.5,0.3-0.7,0.2s-0.1-0.4,0.1-0.7
+				c0.2-0.2,0.5-0.3,0.7-0.2C204.9,223.9,204.8,224.2,204.6,224.5z"/>
+			<path opacity="0.9762" fill="#F8FAFC" enable-background="new    " d="M204.6,224.4c-0.2,0.2-0.4,0.3-0.6,0.2
+				c-0.1-0.1-0.1-0.4,0.1-0.6c0.2-0.2,0.5-0.3,0.6-0.2C204.8,223.9,204.8,224.2,204.6,224.4z"/>
+			<path opacity="0.9881" fill="#FBFCFD" enable-background="new    " d="M204.6,224.4c-0.2,0.2-0.4,0.3-0.5,0.2s-0.1-0.3,0.1-0.5
+				c0.2-0.2,0.4-0.3,0.5-0.2C204.8,224,204.7,224.2,204.6,224.4z"/>
+			<path fill="#FFFFFF" d="M204.5,224.4c-0.1,0.2-0.4,0.2-0.5,0.1c-0.1-0.1-0.1-0.3,0.1-0.5c0.1-0.2,0.4-0.2,0.5-0.1
+				C204.7,224,204.7,224.2,204.5,224.4z"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#32A457" d="M225.9,225.2v-36.8h32.9v6.4h-26.4v23.9h26.5v6.4h-33V225.2z M237,209.2v-5.4h20.4v5.4H237z"/>
+		<path fill="#32A457" d="M275.4,215v-6.2h14.8c2.3,0,4-0.6,5.3-1.9c1.3-1.3,1.9-3,1.9-5.1s-0.6-3.8-1.9-5.1c-1.3-1.2-3-1.9-5.3-1.9
+			h-19.4v30.3h-6.4v-36.8h25.8c2.1,0,4,0.3,5.7,0.9c1.7,0.6,3.1,1.5,4.2,2.6s2,2.5,2.6,4.1s0.9,3.4,0.9,5.5c0,2-0.3,3.8-0.9,5.4
+			c-0.6,1.6-1.5,3-2.6,4.2s-2.6,2.1-4.2,2.8c-1.7,0.7-3.6,1-5.7,1h-14.8V215z"/>
+		<path fill="#32A457" d="M324.9,225.2c-2.6,0-4.9-0.5-7.1-1.4c-2.2-1-4.1-2.3-5.7-3.9c-1.6-1.7-2.8-3.6-3.7-5.9
+			c-0.9-2.3-1.3-4.8-1.3-7.4c0-2.7,0.4-5.2,1.3-7.4s2.1-4.1,3.7-5.7c1.6-1.6,3.5-2.8,5.7-3.6c2.2-0.9,4.5-1.3,7.1-1.3h19.9v6.4
+			h-19.9c-1.7,0-3.2,0.3-4.6,0.9c-1.4,0.6-2.6,1.4-3.6,2.5c-1,1-1.8,2.3-2.4,3.7s-0.9,3.1-0.9,4.8s0.3,3.3,0.9,4.8s1.4,2.8,2.4,3.8
+			c1,1.1,2.2,1.9,3.6,2.5s2.9,0.9,4.6,0.9h19.9v6.4h-19.9V225.2z"/>
+		<path fill="#32A457" d="M367,225.2v-14l-19.5-22.8h8.6l14.3,16.9l14.4-16.9h8.2l-19.6,22.8v14H367z"/>
+		<path fill="#32A457" d="M394,225.2v-6.4h27.6c1.7,0,3-0.4,4-1.3c0.9-0.9,1.4-2,1.4-3.5c0-1.6-0.5-2.8-1.4-3.6s-2.2-1.2-4-1.2
+			h-16.9c-1.7,0-3.3-0.3-4.7-0.8c-1.4-0.5-2.6-1.2-3.5-2.2c-1-0.9-1.7-2-2.2-3.3s-0.8-2.7-0.8-4.2s0.2-2.9,0.7-4.1
+			c0.5-1.3,1.2-2.4,2.2-3.3c1-0.9,2.1-1.6,3.6-2.1c1.4-0.5,3-0.8,4.9-0.8h26.4v6.4h-26.4c-1.5,0-2.7,0.4-3.5,1.2s-1.2,1.9-1.2,3.3
+			c0,1.4,0.4,2.5,1.2,3.3c0.8,0.8,1.9,1.2,3.4,1.2h16.8c3.8,0,6.6,0.9,8.5,2.6c1.9,1.8,2.9,4.4,2.9,8c0,1.6-0.2,3-0.7,4.3
+			s-1.2,2.5-2.1,3.4c-0.9,1-2.1,1.7-3.5,2.2s-3.1,0.8-5,0.8H394V225.2z"/>
+	</g>
+	<g>
+		<path fill="#4674B8" d="M313.2,237.9c-0.3,0.2-1.1,0.3-2,0.3c-2.4,0-3.9-1.5-3.9-3.9c0-2.5,1.8-4.1,4.1-4.1c0.9,0,1.6,0.2,1.9,0.3
+			l-0.3,1.1c-0.4-0.2-0.9-0.3-1.5-0.3c-1.6,0-2.7,1-2.7,2.8c0,1.7,1,2.8,2.7,2.8c0.6,0,1.2-0.1,1.5-0.3L313.2,237.9z"/>
+		<path fill="#4674B8" d="M321,234.2c0,2.6-1.6,4.1-3.7,4.1c-2.2,0-3.6-1.7-3.6-3.9c0-2.4,1.5-4,3.7-4
+			C319.6,230.3,321,232,321,234.2z M315.2,234.3c0,1.6,0.8,2.8,2.1,2.8c1.4,0,2.1-1.3,2.1-2.9c0-1.5-0.7-2.8-2.1-2.8
+			C315.9,231.5,315.2,232.7,315.2,234.3z"/>
+		<path fill="#4674B8" d="M328.7,235c0-1-0.1-2.2-0.1-3.2l0,0c-0.3,0.9-0.6,2-0.9,2.9l-1.1,3.3h-1.1l-1-3.3c-0.3-1-0.6-2-0.8-3l0,0
+			c0,1-0.1,2.2-0.1,3.3l-0.2,3.1H322l0.5-7.7h1.8l1,3.1c0.3,0.9,0.5,1.8,0.7,2.7l0,0c0.2-0.8,0.5-1.8,0.8-2.7l1.1-3.1h1.8l0.4,7.7
+			h-1.4L328.7,235z"/>
+		<path fill="#4674B8" d="M335.9,234.7H333v2.3h3.2v1.2h-4.6v-7.7h4.5v1.2H333v2h2.9V234.7z"/>
+		<path fill="#4674B8" d="M337.5,230.6c0.5-0.1,1.3-0.2,2.1-0.2c1.1,0,1.8,0.2,2.4,0.6c0.4,0.4,0.7,0.9,0.7,1.6c0,1-0.7,1.7-1.4,1.9
+			l0,0c0.6,0.2,0.9,0.7,1.1,1.5c0.3,1,0.5,1.9,0.6,2.1h-1.4c-0.1-0.2-0.3-0.9-0.5-1.8c-0.2-1-0.6-1.3-1.4-1.3H339v3.2h-1.4v-7.6
+			H337.5z M338.9,234h0.8c0.9,0,1.5-0.5,1.5-1.3s-0.6-1.2-1.5-1.2c-0.4,0-0.7,0-0.9,0.1v2.4H338.9z"/>
+		<path fill="#4674B8" d="M349.5,237.9c-0.3,0.2-1.1,0.3-2,0.3c-2.4,0-3.9-1.5-3.9-3.9c0-2.5,1.8-4.1,4.1-4.1c0.9,0,1.6,0.2,1.9,0.3
+			l-0.3,1.1c-0.4-0.2-0.9-0.3-1.5-0.3c-1.6,0-2.7,1-2.7,2.8c0,1.7,1,2.8,2.7,2.8c0.6,0,1.2-0.1,1.5-0.3L349.5,237.9z"/>
+		<path fill="#4674B8" d="M352.1,230.5v7.7h-1.4v-7.7H352.1z"/>
+		<path fill="#4674B8" d="M355.2,236l-0.7,2.2H353l2.5-7.7h1.8l2.5,7.7h-1.5l-0.7-2.2H355.2z M357.4,234.9l-0.6-1.9
+			c-0.1-0.5-0.3-1-0.4-1.4l0,0c-0.1,0.4-0.2,1-0.4,1.4l-0.6,1.9H357.4z"/>
+		<path fill="#4674B8" d="M361,230.5h1.4v6.5h3.2v1.2H361V230.5z"/>
+		<path fill="#4674B8" d="M368,230.5v7.7h-1.4v-7.7H368z"/>
+		<path fill="#4674B8" d="M369.1,237.4l3.9-5.7l0,0h-3.6v-1.2h5.4v0.8L371,237l0,0h3.9v1.2h-5.8V237.4z"/>
+		<path fill="#4674B8" d="M377.7,236l-0.7,2.2h-1.5l2.5-7.7h1.8l2.5,7.7h-1.5l-0.7-2.2H377.7z M379.9,234.9l-0.6-1.9
+			c-0.1-0.5-0.3-1-0.4-1.4l0,0c-0.1,0.4-0.2,1-0.4,1.4l-0.6,1.9H379.9z"/>
+		<path fill="#4674B8" d="M383.4,230.6c0.6-0.1,1.4-0.2,2.2-0.2c1.4,0,2.4,0.3,3.1,0.9c0.8,0.6,1.2,1.5,1.2,2.8
+			c0,1.4-0.5,2.4-1.2,3.1c-0.8,0.7-2,1.1-3.5,1.1c-0.8,0-1.4,0-1.9-0.1L383.4,230.6L383.4,230.6z M384.8,237.1c0.2,0,0.5,0,0.8,0
+			c1.8,0,2.9-1,2.9-3c0-1.7-1-2.7-2.7-2.7c-0.4,0-0.8,0-1,0.1L384.8,237.1L384.8,237.1z"/>
+		<path fill="#4674B8" d="M398,234.2c0,2.6-1.6,4.1-3.7,4.1c-2.2,0-3.6-1.7-3.6-3.9c0-2.4,1.5-4,3.7-4
+			C396.7,230.3,398,232,398,234.2z M392.3,234.3c0,1.6,0.8,2.8,2.1,2.8c1.4,0,2.1-1.3,2.1-2.9c0-1.5-0.7-2.8-2.1-2.8
+			C393,231.5,392.3,232.7,392.3,234.3z"/>
+		<path fill="#4674B8" d="M399.2,230.6c0.5-0.1,1.3-0.2,2.1-0.2c1.1,0,1.8,0.2,2.4,0.6c0.4,0.4,0.7,0.9,0.7,1.6c0,1-0.7,1.7-1.4,1.9
+			l0,0c0.6,0.2,0.9,0.7,1.1,1.5c0.3,1,0.5,1.9,0.6,2.1h-1.4c-0.1-0.2-0.3-0.9-0.5-1.8c-0.2-1-0.6-1.3-1.4-1.3h-0.7v3.2h-1.4v-7.6
+			H399.2z M400.6,234h0.8c0.9,0,1.5-0.5,1.5-1.3s-0.6-1.2-1.5-1.2c-0.4,0-0.7,0-0.9,0.1v2.4H400.6z"/>
+		<path fill="#4674B8" d="M407.3,236l-0.7,2.2h-1.5l2.5-7.7h1.8l2.5,7.7h-1.5l-0.7-2.2H407.3z M409.5,234.9l-0.6-1.9
+			c-0.1-0.5-0.3-1-0.4-1.4l0,0c-0.1,0.4-0.2,1-0.4,1.4l-0.6,1.9H409.5z"/>
+		<path fill="#4674B8" d="M415.4,236.6c0.4,0.3,1.1,0.5,1.9,0.5c0.9,0,1.4-0.4,1.4-1.1c0-0.6-0.4-0.9-1.4-1.3
+			c-1.3-0.5-2.1-1.1-2.1-2.2c0-1.3,1.1-2.2,2.7-2.2c0.8,0,1.4,0.2,1.8,0.4l-0.3,1.1c-0.3-0.1-0.8-0.4-1.5-0.4
+			c-0.9,0-1.3,0.5-1.3,0.9c0,0.6,0.4,0.9,1.5,1.3c1.3,0.5,2,1.2,2,2.3c0,1.2-0.9,2.3-2.9,2.3c-0.8,0-1.7-0.2-2.1-0.5L415.4,236.6z"
+			/>
+		<path fill="#4674B8" d="M421.1,237.4c0-0.5,0.4-0.9,0.9-0.9s0.9,0.4,0.9,0.9s-0.3,0.9-0.9,0.9
+			C421.4,238.3,421.1,237.9,421.1,237.4z"/>
+		<path fill="#4674B8" d="M425.6,236l-0.7,2.2h-1.5l2.5-7.7h1.8l2.5,7.7h-1.5L428,236H425.6z M427.8,234.9l-0.6-1.9
+			c-0.1-0.5-0.3-1-0.4-1.4l0,0c-0.1,0.4-0.2,1-0.4,1.4l-0.6,1.9H427.8z"/>
+		<path fill="#4674B8" d="M431,237.4c0-0.5,0.4-0.9,0.9-0.9s0.9,0.4,0.9,0.9s-0.3,0.9-0.9,0.9C431.4,238.3,431,237.9,431,237.4z"/>
+	</g>
+</g>
+</svg>
