@@ -1,0 +1,31 @@
+commit 38d05a304501163a3b9dfdad402748e06838904a
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 08:51:54 2015 -0500
+
+    logo insuban arreglado
+
+commit cde66afec8ce574e32380735f0ab9692cad85106
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 08:40:04 2015 -0500
+
+    Subiendo archivos arreglados
+
+commit a127fbcb508d247107d4ff10257031f04edf1848
+Merge: 943efc1 cfe4295
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 08:31:41 2015 -0500
+
+    Merge branch 'gh-pages' of github.com:iblurdesigner/gruponm
+    Subimos archivos recuperados
+
+commit cfe4295ff13303523179687c5cbf69ba75ef342c
+Author: David Flores <nevomen@gmail.com>
+Date:   Wed Oct 21 08:24:11 2015 -0500
+
+    Initial commit
+
+commit 943efc15ae5e83ea2400d25c01680e2ec0c9de9b
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Oct 20 16:12:47 2015 -0500
+
+    Resolviendo el PROBLEMA
