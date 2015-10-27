@@ -1,0 +1,5 @@
+commit 7b6b8220529b4e2aaa23a6794346ec78b50a511a
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Oct 27 14:42:26 2015 -0500
+
+    subimos desarrollo2
