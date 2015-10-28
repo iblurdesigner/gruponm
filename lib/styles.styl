@@ -14,6 +14,7 @@ subtitulos()
 @import url(https://fonts.googleapis.com/css?family=Exo:400,800,200);
 @import "nib"
 @import "slides.styl"
+
 	
 body
 	background #807C7C
@@ -42,7 +43,7 @@ a
 		justify-content center
 		flex-wrap wrap
 		width 100%
-		height auto
+		height 500px
 		
 		&-slides
 			background black
@@ -60,7 +61,7 @@ a
 		&-nav_logo
 			width 111px
 			height 107px
-			margin 0 1rem 0 .5rem
+			margin 0 1rem 0 2rem
 			
 		&-nav_list
 			display flex
@@ -77,11 +78,13 @@ a
 			height auto
 		
 		&-empresas
-			align-self flex-end
 			border-radius 15px 15px 0 0
 			width 600px
 			height 94px
 			background white
+			z-index: 3
+			position: relative
+			top: -95px
 		
 		&-empresas_logos
 			align-items center
@@ -107,19 +110,18 @@ a
 		z-index 2	
 	
 	.Sectores
-		background black
 		display flex
+		justify-content center
 		justify-content space-between
-		align-items center
 		width 1024px
-		height 465px
+		height 520px
 		
 		&-titulo
 			subtitulos()
-			margin-left 2rem
-			text-align center
-			width 300px
-			height 315px
+			margin 3rem 0 0 .5rem
+			text-align left
+			width 240px
+			height 30px
 
 		&-titulo_list
 			color white
@@ -128,19 +130,7 @@ a
 			font-weight 200
 			text-decoration none
 			text-align left
-			margin-left 3rem	
-		
-		&-gallery
-			display flex
-			align-items center
-			margin-right 2rem
-			overflow hidden
-			width 600px
-			height 335px
-		
-		&-gallery_img
-			width 600px
-			
+			margin-left 3rem
 
 	.Servicios
 		display flex
@@ -282,7 +272,7 @@ a
 			width 130px
 
 		.logo-grasselli	
-			width 130px
+			width 150px
 						
 		.logo-medoc
 			width 120px

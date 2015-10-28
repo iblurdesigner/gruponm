@@ -3,7 +3,13 @@ html(lang="en")
 head
 	meta(charset="UTF-8")
 	title Grupo NM
+	meta(name='viewport', content='width=device-width, initial-scale=1.0')
+	link(rel='stylesheet', type='text/css', href='./public/css/demo.css')
+	link(rel='stylesheet', type='text/css', href='./public/css/slicebox.css')
+	link(rel='stylesheet', type='text/css', href='./public/css/custom.css')
+	script(type='text/javascript', src='./public/js/vendor/modernizr.custom.46884.js')
 	link(rel="stylesheet", href="./public/css/styles.css")
+
 body
 	div(class="Layout")
 		div(class="Header")
@@ -40,13 +46,8 @@ body
 		// SECTORES
 
 		div(class="Sectores")
-			div(class="Sectores-titulo") SECTORES QUE SERVIMOS
-				ul(class="Sectores-titulo_list") 
-					each item in ["CARNES PROCESADAS", "CARNES FRESCAS", "AVES", "QUESOS Y LACTEOS", "PESCADOS Y MARISCOS", "FRUTAS Y VEGETALES", "LIQUIDOS", "HO.RE.CA"]
-						li= item					
-			div(class="Sectores-gallery")
-				img(src="./public/images/jamon.jpg", alt="Carne Procesada", class="Sectores-gallery_img")
-
+			include ../Slicebox/template.jade
+			
 		// SERVICIOS
 
 		div(class="Servicios")
@@ -136,22 +137,22 @@ body
 					div(class="Maquinaria-representaciones_logos")
 						a(href="http://www.viskoteepak.com/")
 							img(src="./public/svg/logoVisko.svg", alt="Viskoteepak", class="logo-visko")
+						a(href="http://190.107.176.73/~prodinwe/www/")
+							img(src="./public/svg/logoInsuban.svg", alt="Insuban", class="logo-insuban")
 						a(href="http://www.valfilm.com.br/?language=es")
 							img(src="./public/svg/logoValfilm.svg", alt="Valfilm", class="logo-valfilm")
 						a(href="http://grupofibran.com/fibran/home.php")
 							img(src="./public/images/logoFibran.jpg", alt="Fibran", class="logo-fibran")
-						a(href="http://190.107.176.73/~prodinwe/www/")
-							img(src="./public/svg/logoInsuban.svg", alt="Insuban", class="logo-insuban")
-						a(href="http://www.braher.com/")
-							img(src="./public/images/logoBraher.png", alt="Braher", class="logo-braher")
 						a(href="http://www.grasselli.com/es")
 							img(src="./public/svg/logoGrasselli.svg", alt="Grasselli", class="logo-grasselli")
-						a(href="http://www.medocsa.com/")
-							img(src="./public/images/logoMedoc.jpg", alt="Medoc", class="logo-medoc")
 						a(href="http://www.edicas.es/Inici")
 							img(src="./public/svg/logoEdicas.svg", alt="Edicas", class="logo-edicas")
+						a(href="http://www.medocsa.com/")
+							img(src="./public/images/logoMedoc.jpg", alt="Medoc", class="logo-medoc")
 						a(href="http://fatosa.com/")
 							img(src="./public/images/logoFatosa.jpg", alt="Fatosa", class="logo-braher")
+						a(href="http://www.braher.com/")
+							img(src="./public/images/logoBraher.png", alt="Braher", class="logo-braher")
 				div(class="Maquinaria-fondo")
 				//	p(class="Maquinaria-fondo_titulo") MAQUINARIA
 	
@@ -186,3 +187,5 @@ body
 	script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js')
 	script(src='./public/js/vendor/responsiveslides.min.js')
 	script(src='./public/js/slides.js')
+	script(type='text/javascript', src='./public/js/vendor/jquery.slicebox.js')
+	script(src='./public/js/gallery.js')
