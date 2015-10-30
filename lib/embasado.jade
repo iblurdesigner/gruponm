@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+html(lang="en")
+head
+	meta(charset="UTF-8")
+	title Embasado - Grupo NM
+	meta(name='viewport', content='width=device-width, initial-scale=1.0')
+	link(rel='stylesheet', type='text/css', href='./public/css/demo.css')
+	link(rel='stylesheet', type='text/css', href='./public/css/slicebox.css')
+	link(rel='stylesheet', type='text/css', href='./public/css/custom.css')
+	script(type='text/javascript', src='./public/js/vendor/modernizr.custom.46884.js')
+	link(rel="stylesheet", href="./public/css/styles.css")
+
+body
+	div(class="Total")
+		div(class="Main-menu")
+			img(class="Main-menu_logoB" src="./public/svg/logoGNM.svg", alt="")
+			ul(class="Main-menu_list")
+				l1(class="menu_items") SECTORES QUE SERVIMOS
+				img(src="./public/images/separadores2.png", alt="")
+				l1(class="menu_items") NUESTROS SERVICIOS
+				img(src="./public/images/separadores2.png", alt="")
+				l1(class="menu_items") SOLUCIONES DE EMBASADO
+				img(src="./public/images/separadores2.png", alt="")
+				l1(class="menu_items") MAQUINARIA
+				img(src="./public/images/separadores2.png", alt="")
+				l1(class="menu_items") REPRESENTACIONES	
+			// FOOTER
+		div(class="Footer")
+			div(class="Footer-layout")
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") SECTORES QUE SERVIMOS
+					ul(class="Footer-texto")
+						each items in ["CARNES PROCESADAS","CARNES FRESCAS","AVES","QUESOS Y LACTEOS","PESCADOS Y MARISCOS","FRUTAS Y VEGETALES","LIQUIDOS","HO.RE.CA"]
+							li= items
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") NUESTROS SERVICIOS
+					ul(class="Footer-texto")
+						each items in ["DISEÑO DE EMPAQUES","IMPRESIÓN","INVESTIGACIÓN","ASESORÍA CORTES CÁRNICOS","SERVICIO TÉCNICO","CAPACITACIONES Y CURSOS"]
+							li= items
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") SOLUCIONES DE EMBASADO
+					ul(class="Footer-texto")
+						each items in ["BOLSAS TERMOENCOGIBLES (PVDC) 56 MICRONES","BOLSAS TERMOENCOGIBLES (PVDC) 76 MICRONES","BOLSAS NYLON POLY (TRES SELLOS)","PELICULA EVOH","TRIPA CELULOSA  (SALCHICHAS) WIENIEPAK","TRIPA FIBROSA (SALAMES)","TRIPA POLYAMIDA (JAMONES Y MORTADELAS) NOVA","TRIPA NATURAL DE CERDO","TRIPA NATURAL DE CORDERO","TRIPA COLAGENO COMESTIBLE"]
+							li= items
+				div(class="Footer-layout_col")
+					p(class="Footer-titulos") MAQUINARIA
+					ul(class="Footer-texto")
+						each items in ["DESCORTEZADORAS Y DEVELADORAS","REBANADORAS DE PESO CONTROLADO CWS","CORTADORES INDUSTRIALES","CORTADORAS AL POR MENOR","MOLINOS","EMBUTIDORAS PISTON","MEZCLADORAS","CUTTERS","MARMITAS"]
+							li= items
+			div(class="Footer-layout_copy")
+				p Epcys y Nova Meats forman parte del 
+					a(href='http://gruponm.com/', class="linkGNM") Grupo NM | 
+					|Todos los derechos reservados © 2015
+			// Script		
+	script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js')
