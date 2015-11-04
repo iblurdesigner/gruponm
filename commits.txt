@@ -1,35 +1,133 @@
-commit 73eee3af69332a4cdbdda624c3ec04be0de5b37c
+commit 9c117c58028116cc35ae884da0108eef68e643a6
 Author: iblurdesigner <nevomen@gmail.com>
-Date:   Wed Oct 28 13:00:16 2015 -0500
+Date:   Wed Nov 4 15:15:41 2015 -0500
 
-    Eliminamos archivos innecesarios
+    Lista maquinaria funcionando
 
-commit 783517348070341cdd0a2aaee3bda4555bcd58b1
+commit a1c770548112a4e0ca554bcca1c869c90dd40b4b
 Author: iblurdesigner <nevomen@gmail.com>
-Date:   Wed Oct 28 12:00:08 2015 -0500
+Date:   Wed Nov 4 11:43:26 2015 -0500
 
-    Arreglo de fuentes instrusas
+    Agregamos bootstrap y arreglamos el main menu
 
-commit 0980b9a5c7b3d59468f3aa55938512aea6b34493
+commit 86428c44f7525cec20c6018e8a117b03acb77d0c
 Author: iblurdesigner <nevomen@gmail.com>
-Date:   Wed Oct 28 11:17:34 2015 -0500
+Date:   Wed Nov 4 09:49:08 2015 -0500
 
-    cambiamos las imagenes de la Gallería y reacomodamos los logos de las representaciones
+    items de Embasado y recuadro de Maquinaria agregado
 
-commit f515b02d5c5c8ff14020abc18ed0b5e6071564ae
+commit 0d03647af42e16558a9c27861c21a99bb6695669
 Author: iblurdesigner <nevomen@gmail.com>
-Date:   Tue Oct 27 15:52:22 2015 -0500
+Date:   Fri Oct 30 16:17:07 2015 -0500
 
-    eliminamos template.html
+    enlazamos el home con embasados
 
-commit 2bc9a5b3b72fc11e959b72bfea82a5d7dfcccd15
+commit ed406f581b318835ec4c67368e800cdbe3989e07
 Author: iblurdesigner <nevomen@gmail.com>
-Date:   Tue Oct 27 15:04:04 2015 -0500
+Date:   Fri Oct 30 16:11:38 2015 -0500
 
-    vuelvo a subir archivos
+    empezamos la pagina embases
 
-commit 7b6b8220529b4e2aaa23a6794346ec78b50a511a
+commit f0a1921409b4af219756260649a1cf3537d84c00
 Author: iblurdesigner <nevomen@gmail.com>
-Date:   Tue Oct 27 14:42:26 2015 -0500
+Date:   Fri Oct 30 10:37:09 2015 -0500
 
-    subimos desarrollo2
+    cambio de fotos en pescado, queso, vegetales y frutas
+
+commit 0d995861d6b29ebc25757570bdea3c8769456769
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Oct 30 09:24:37 2015 -0500
+
+    añadimos el salmon
+
+commit d81f6d3ffc4408d191f2385d81e04385a86cd2bd
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Oct 30 09:12:36 2015 -0500
+
+    subimos el pescado2 a github
+
+commit bd31bcef8bb0e1d15738becdc60c9eb424079144
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Oct 29 08:39:39 2015 -0500
+
+    subimos archivos arreglados de gallery
+
+commit bf19b5ec827b12af4505d04180dd78718892b4c7
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 28 15:21:09 2015 -0500
+
+    subimos archivos con gallery
+
+commit 2badbd388a0ce3f5a7a39fd9af3747d6e03d4d92
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Oct 26 12:16:05 2015 -0500
+
+    Eliminamos imagenes innecesarias y añadimos representaciones Fatosa y Fribran
+
+commit 03b958ea2671594f0f8618cab4e8f319715d4e7b
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Oct 26 11:36:52 2015 -0500
+
+    arreglado lo que la pagina se movia de derecha a izquierda
+
+commit db51df6f884ee973fe2b1df9fc67ba982f746f51
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Oct 26 11:32:38 2015 -0500
+
+    agregamos Un Slide con sus archivos
+
+commit d2115e006e2801ed2a2f3731f6701d7cab84a1d6
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Oct 26 09:59:18 2015 -0500
+
+    Eliminamos una imagen y la cambiamos por una de viskoteepak
+
+commit 2b9195a61c5f0393bdae86ed139abb5ffca2d486
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 09:50:08 2015 -0500
+
+    subiendo logo Graselli
+
+commit 3c6e6b4aa2421cbd10e4d6e2b199bcb3fc0986fd
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 09:49:11 2015 -0500
+
+    moviendo todos los logos a representaciones y aumentando tamaño
+
+commit 7b7eb0a5f2445769a696941652ee6b37e7983ed3
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 09:05:59 2015 -0500
+
+    cambio en img maquinaria
+
+commit 38d05a304501163a3b9dfdad402748e06838904a
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 08:51:54 2015 -0500
+
+    logo insuban arreglado
+
+commit cde66afec8ce574e32380735f0ab9692cad85106
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 08:40:04 2015 -0500
+
+    Subiendo archivos arreglados
+
+commit a127fbcb508d247107d4ff10257031f04edf1848
+Merge: 943efc1 cfe4295
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Oct 21 08:31:41 2015 -0500
+
+    Merge branch 'gh-pages' of github.com:iblurdesigner/gruponm
+    Subimos archivos recuperados
+
+commit cfe4295ff13303523179687c5cbf69ba75ef342c
+Author: David Flores <nevomen@gmail.com>
+Date:   Wed Oct 21 08:24:11 2015 -0500
+
+    Initial commit
+
+commit 943efc15ae5e83ea2400d25c01680e2ec0c9de9b
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Oct 20 16:12:47 2015 -0500
+
+    Resolviendo el PROBLEMA
