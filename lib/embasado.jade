@@ -8,9 +8,8 @@ head
 	link(rel='stylesheet', type='text/css', href='./public/css/slicebox.css')
 	link(rel='stylesheet', type='text/css', href='./public/css/custom.css')
 	script(type='text/javascript', src='./public/js/vendor/modernizr.custom.46884.js')
-	link(rel="stylesheet", href="./public/css/styles.css")
 	link(rel="stylesheet", href="./public/bootstrap/css/bootstrap.min.css")
-
+	link(rel="stylesheet", href="./public/css/styles.css")
 body
 	div(class="Total")
 		div(class="Main-menu")
@@ -60,10 +59,106 @@ body
 
 		div(class="Maquinaria")
 			h2 MAQUINARIA
-			div(class="Maquinaria-list")
+			div(class="Maquinaria-list panel-group" id="accordion" role="tablist" aria-multiselectable="true")
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingOne")
+						h4(class="panel-title")
+							a(role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne") DESCORTEZADORAS Y DEVELADORAS
+					div(id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne")
+						div(class="panel-body")
+						ul
+							li AREA DE TRABAJO DESDE 300 - 800 MM
+							li APLICACIONES CERDO, RES, Y PESCADO
+							li LIMPIEZADE CUERO Y MEMBRANA
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingTwo")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo") REBANADORAS DE PESO CONTROLADO   CWS
+					div(id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo")
+						div(class="panel-body")
+						ul
+							li CORTES PROGRAMABLES
+							li HASTA 10500 LONCHAS POR HORA
+							li CORTES DESDE 30 GRAMOS,CARNE FRESCA
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingThree")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree") CORTADORES INDUSTRIALES
+					div(id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree")
+						div(class="panel-body")
+						ul
+							li TIRAS Y CUBOS AL MISMO TIEMPO
+							li FILETEADORAS DE CARNE FRESCA CON Y SIN HUESO
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingFour")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour") CORTADORAS AL POR MENOR
+					div(id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour")
+						div(class="panel-body")
+						ul
+							li TIERNIZADOR DE CARNE
+							li TIRAS Y CUBOS DE CARNE
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingFive")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive") MOLINOS
+					div(id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive")
+						div(class="panel-body")
+						ul
+							li CABEZAL DESDE 22 -140
+							li 100 % ACERO INOXIDABLE
+							li SISTEMA SENCILLO, UNGER 3  (CORTE DOBLE) 
+							li Y UNGER 5 (CORTE CUADRUPLE)
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingSix")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix") EMBUTIORAS PISTON
+					div(id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix")
+						div(class="panel-body")
+						ul
+							li DESDE 15 - 52 LITROS
+							li 100% ACERO INOXIDABLE
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingSeven")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven") MEZCLADORAS
+					div(id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven")
+						div(class="panel-body")
+						ul
+							li DESDE 35 - 275 LITROS
+							li DESDE 20 - 180 KG
+							li 100% ACERO INOXIDABLE
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingEight")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight") CUTTERS
+					div(id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight")
+						div(class="panel-body")
+						ul
+							li DESDE 15 - 120 LITROS
+							li DESDE 10 - 90 KG
+							li 100% ACERO INOXIDABLE
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingNine")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine") CORTADORAS AL POR MENOR
+					div(id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine")
+						div(class="panel-body")
+						ul
+							li TIERNIZADOR DE CARNE
+							li TIRAS Y CUBOS DE CARNE
+				div(class="panel panel-default")
+					div(class="panel-heading" role="tab" id="headingTen")
+						h4(class="panel-title")
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen") MARMITAS
+					div(id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen")
+						div(class="panel-body")
+						ul
+							li ELECTRICAS Y GAS
+							li DESDE 165 - 725 LITROS
+							li 100 % ACERO INOXIDABLE
 			div(class="Maquinaria-gallery")
 				img(class="Maquinaria-gallery_items" id="" src="./public/images/maquinaria/c35.png")
-
 			// FOOTER
 		div(class="Footer")
 			div(class="Footer-layout")
@@ -93,3 +188,4 @@ body
 					|Todos los derechos reservados © 2015
 			// Script		
 	script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js')
+	script(src='./public/bootstrap/js/bootstrap.min.js')
