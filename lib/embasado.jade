@@ -19,11 +19,49 @@ body
 				img(src="./public/images/separadores2.png", alt="")
 				l1(class="menu_items") NUESTROS SERVICIOS
 				img(src="./public/images/separadores2.png", alt="")
-				l1(class="menu_items") SOLUCIONES DE EMBASADO
+				l1(class="Header-nav_items")
+					a(href="embasado.html") SOLUCIONES DE EMBASADO
 				img(src="./public/images/separadores2.png", alt="")
 				l1(class="menu_items") MAQUINARIA
 				img(src="./public/images/separadores2.png", alt="")
-				l1(class="menu_items") REPRESENTACIONES	
+				l1(class="menu_items") REPRESENTACIONES
+				// ENCABEZADO
+		div(class="Encabezado")
+			h2 SOLUCIONES DE <br>EMBASADO
+		div(class="Embasado")
+			div(class="Embasado-list")
+				ul
+					li
+						a(class="Embasado-list_link") BOLSAS TERMOENCOGIBLES ( PVDC ) 56 MICRONES
+					li
+						a(class="Embasado-list_link") BOLSAS TERMOENCOGIBLES ( PVDC ) 76 MICRONES
+					li
+						a(class="Embasado-list_link") BOLSAS NYLON POLY ( TRES SELLOS )
+					li
+						a(class="Embasado-list_link") PELICULA EVOH 
+					li
+						a(class="Embasado-list_link") TRIPA CELULOSA  ( SALCHICHAS ) WIENIEPAK
+					li
+						a(class="Embasado-list_link") TRIPA FIBROSA ( SALAMES )
+					li
+						a(class="Embasado-list_link") TRIPA POLYAMIDA ( JAMONES Y MORTADELAS ) NOVA
+					li
+						a(class="Embasado-list_link") TRIPA NATURAL DE CERDO
+					li
+						a(class="Embasado-list_link") TRIPA NATURAL DE CORDERO
+					li
+						a(class="Embasado-list_link") TRIPA COLAGENO COMESTIBLE									
+			div(class="Embasado-info")
+				h1 TRIPA POLYAMIDA ( JAMONES Y MORTADELAS ) NOVA
+				ul
+					each items in ["CALIBRES DESDE 51 - 305 ANCHO PLANO","CALIBRES DESDE 34 - 205 DRE","VARIOS COLORES","DRE DIAMETRO RECOMENDADO EMBUTIDO"]
+						li= items
+
+		div(class="Maquinaria")
+			h2 MAQUINARIA
+			div(class="Maquinaria-list")
+			div(class="Maquinaria-gallery")
+
 			// FOOTER
 		div(class="Footer")
 			div(class="Footer-layout")

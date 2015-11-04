@@ -20,18 +20,17 @@ body
 	background-repeat no-repeat
 	width 1020px
 	test(red)
-	
-	.Header
-		test(blue)
 		
 	.Main-menu
 		display flex
 		justify-content center
+		align-items center
 		width 100%
 		height 90px
 		test(pink)
 		
 		&_logoB
+			margin-left 2rem
 			width 70px
 			test(red)
 		
@@ -47,4 +46,112 @@ body
 	.menu_items
 		font-size .8rem
 		height auto	
-		margin 0	
+		margin 0
+	
+	.Encabezado
+		color white
+		display flex
+		justify-content flex-end
+		width 68%
+		test(yellow)
+		
+	.Encabezado h2	
+		font-size 2rem
+		line-height 1.8rem
+		margin: 0 0 .5rem 0
+			
+	.Embasado
+		display flex
+		justify-content space-around
+		height auto
+		width 100%
+		test(red)
+		
+		&-list
+			background rgba(0,0,0,0.8)
+			border solid 3px #00FFFF
+			font-size .9rem
+			height 340px
+			line-height 2rem
+			width 38%
+			
+		&-list ul
+			padding 0 1rem	
+			
+		&-list_link
+			color white	
+		
+		&-info
+			color white
+			width 48%
+			test(peru)
+			
+		&-info h1	
+			font-size 1.2rem
+			margin-bottom 0
+
+		&-info li
+			color black
+			
+	.Maquinaria
+		display flex
+		justify-content center
+		flex-wrap wrap
+		height auto
+		width 100%
+		test blue
+		
+		&-list
+			background white
+			border solid 3px #00FFFF
+			font-size .9rem
+			height 340px
+			line-height 2rem
+			width 38%
+			test(pink)
+			
+		&-gallery
+			background-image url('../images/recuadroGal.png')	
+			background-size cover
+			width 570px
+			test(brown)
+			
+	.Maquinaria h2
+		color #137CB9
+		width 100%
+		height 50px
+		text-align center
+		test(green)
+		
+	.Footer
+		display flex
+		justify-content center
+		flex-wrap wrap
+		background black
+		width 100%
+		height 330px
+		
+		&-layout
+			display flex
+			justify-content center
+			justify-content space-between
+			width 1024px
+			height 250px
+		
+		&-titulos, &-texto
+			color white
+				
+		&-texto
+			font-size .6rem
+
+		&-layout_col
+			width 250px	
+		
+		&-layout_copy
+			display flex
+			
+		&-layout_copy p
+			color white
+		
+		.linkGNM
+			color white			
