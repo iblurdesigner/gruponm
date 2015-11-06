@@ -15,7 +15,8 @@ body
 		div(class="Header")
 			div(class="container")
 				div(class="Header-nav")
-					img(class="Header-nav_logo" src="./public/images/logognm.png", alt="")
+					a(href="index.html")
+						img(class="Header-nav_logo" src="./public/images/logognm.png", alt="")
 					ul(class="Header-nav_list")
 						l1(class="Header-nav_items") SECTORES QUE SERVIMOS
 						img(src="./public/images/separadores2.png", alt="")
@@ -71,63 +72,6 @@ body
 						h2(class="h2-abajo") SERVICIO TÉCNICO
 					div(class="Servicios-circulos")
 						h2(class="h2-abajo") CAPACITACIONES Y CURSOS
-
-		// EMBASADO
-
-		div(class="Embasado")
-			h2(class="Embasado-titulo") SOLUCIONES DE EMBASADO
-			div(class="Embasado-layout")
-				div(class="Embasado-colIzq")
-					h3 BOLSAS TERMOENCOGIBLES (PVDC) 56 MICRONES
-					ul
-						each items in ["SB15 CARNES PROCESADAS (ALTA BARRERA)", "SB15 CARNES FRESCAS (ALTA BARRERA)", "SB 3000  PAVOS Y POLLOS FRESCO Y COGELADOS (SIN BARRERA)", "SB100 QUESOS FRESCO  (MEDIA BARRERA)", "IMPRESIÓN HASTA 8 COLORES X LADO", "SELLO REDONDO", "VARIOS COLORES"]
-							li= items
-					h3 BOLSAS TERMOENCOGIBLES (PVDC) 76 MICRONES
-					ul 
-						each items in ["SB15 PRO TITE CORTES CON HUESO (ALTA BARRERA)"]
-							li= items
-					h3 BOLSAS NYLON POLY (TRES SELLOS)
-					ul 
-						each items in ["BOLSAS DESDE 50  - 120 MICRONES"]
-							li= items
-					h3 PELICULA EVOH 
-					ul
-						each items in ["BOLSA UHT (LECHES)","MATERIAL LARGA VIDA"]
-							li= items
-					h3 TRIPA CELULOSA  (SALCHICHAS) WIENIEPAK
-					ul
-						each items in ["CALIBRES DESDE 13 - 40","REGULAR, IMPRESA, FACIL PELADO Y GRILL SMASH"]
-							li= items
-					h3 TRIPA FIBROSA (SALAMES)
-					ul
-						each items in ["CALIBRE DESDE 28 - 252 DRE","FACIL PELADO, REGULAR Y ALTA ADEHESION","VARIOS COLORES"]
-							li= items
-
-				// COLUMNA DERECHA
-
-				div(class="Embasado-colDer")
-					h3 TRIPA POLYAMIDA (JAMONES Y MORTADELAS) NOVA
-					ul
-						each items in ["CALIBRES DESDE 51 - 305 ANCHO PLANO","CALIBRES DESDE 34 - 205 DRE","VARIOS COLORES","DRE DIAMETRO RECOMENDADO EMBUTIDO"]
-							li= items
-					h3 TRIPA NATURAL DE CERDO
-					p#Embasado-colDer_subtitulo MADEJAS DE 10, 15 Y 22 PUNTAS
-					ul 
-						each items in ["30-32","32-35","35-37","37-40"]
-							li= items
-					p#Embasado-colDer_subtitulo TUBING  DE  7, 10, 12 PUNTAS
-					ul 
-						each items in ["32-35","35-39","40+"]
-							li= items
-					h3 TRIPA NATURAL DE CORDERO
-					p#Embasado-colDer_subtitulo MADEJAS
-					ul
-						each items in ["14-16","16-18","18-20","20-22","22-24","24-26"]
-							li= items
-					h3 TRIPA COLAGENO COMESTIBLE
-					ul
-						each items in ["CALIBRE DESDE 17- 38","VARIOS COLORES"]
-							li= items
 		
 		// MAQUINARIA
 		

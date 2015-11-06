@@ -26,7 +26,7 @@ body
 
 li
 	list-style none	
-	font-size 1rem
+	/*font-size 1rem*/
 
 a
 	text-decoration none
@@ -138,12 +138,13 @@ a
 			margin-left 3rem
 
 	.Servicios
+		border-bottom: solid 1px #00FFFF
 		display flex
 		justify-content center
 		flex-wrap wrap
 		background white
 		width 100%
-		height 520px
+		height 680px
 		
 		&-titulo
 			titulos()
@@ -187,61 +188,14 @@ a
 			.h2-abajo
 				display flex
 				align-items center
-				
-	.Embasado
-		background black
-		width 1024px
-		height 800px
-		
-		&-titulo
-			titulos()
-			font-size 2rem
-			font-weight normal
-			width 100%
-		
-		&-layout
-			display flex
-			justify-content space-around
-			
-		&-colIzq
-			width 400px
-		
-		&-colIzq h3
-			subtitulos()
-			text-align left
-				
-		&-colIzq ul, p
-			color white
-			margin-left 1.5rem
-		
-		&-colIzq li, p
-			font-size .7rem
-
-		
-		&-colDer
-			width 400px
-			
-		&-colDer h3
-			subtitulos()
-			text-align left
-			
-		#Embasado-colDer_subtitulo
-			color #5BB2E8
-			font-size .8rem	
-				
-		&-colDer ul, p
-			color white
-			margin-left 1.5rem
-		
-		&-colDer li, p
-			font-size .7rem	
 			
 	.Maquinaria
 		background white
 		display flex
 		justify-content center
+		padding-top 2rem
 		width 100%
-		height 383px
+		height 500px
 		
 		&-layout
 			display flex
@@ -312,14 +266,15 @@ a
 			display flex
 			justify-content center
 			justify-content space-between
-			width 1024px
+			width 95%
 			height 250px
 		
 		&-titulos, &-texto
 			color white
 				
 		&-texto
-			font-size .6rem
+			font-size .7rem !important
+			line-height 1rem
 
 		&-layout_col
 			width 250px	
