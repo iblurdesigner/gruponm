@@ -18,16 +18,20 @@ body
 					a(href="index.html")
 						img(class="Header-nav_logo" src="./public/images/logognm.png", alt="")
 					ul(class="Header-nav_list")
-						l1(class="Header-nav_items") SECTORES QUE SERVIMOS
+						a(href="#sectores")
+							l1(class="Header-nav_items") SECTORES QUE SERVIMOS
 						img(src="./public/images/separadores2.png", alt="")
-						l1(class="Header-nav_items") NUESTROS SERVICIOS
+						a(href="#servicios")
+							l1(class="Header-nav_items") NUESTROS SERVICIOS
 						img(src="./public/images/separadores2.png", alt="")
-						l1(class="Header-nav_items")
-							a(href="embasado.html") SOLUCIONES DE EMBASADO
+						a(href="embasado.html") SOLUCIONES DE EMBASADO
+							l1(class="Header-nav_items")
 						img(src="./public/images/separadores2.png", alt="")
-						l1(class="Header-nav_items") MAQUINARIA
+						a(href="embasado.html#maquinaria")
+							l1(class="Header-nav_items") MAQUINARIA
 						img(src="./public/images/separadores2.png", alt="")
-						l1(class="Header-nav_items") REPRESENTACIONES	
+						a(href="#representaciones")
+							l1(class="Header-nav_items") REPRESENTACIONES
 			div(class="Header-slides")
 				ul(class="rslides")
 					li
@@ -47,12 +51,12 @@ body
 						img(src="./public/svg/logoNova.svg", alt="", class="Header-empresas_Nova")
 		// SECTORES
 
-		div(class="Sectores")
+		div(class="Sectores" id="sectores")
 			include ../Slicebox/template.jade
 			
 		// SERVICIOS
 
-		div(class="Servicios")
+		div(class="Servicios" id="servicios")
 			p(class="Servicios-titulo") NUESTROS SERVICIOS
 			div(class="Contenedor-circulos")
 				div(class="Contenedor-circulos_arriba")
@@ -75,7 +79,7 @@ body
 		
 		// MAQUINARIA
 		
-		div(class="Maquinaria")
+		div(class="Maquinaria" id="representaciones")
 			div(class="Maquinaria-layout")
 				div(class="Maquinaria-representaciones")
 					p REPRESENTACIONES

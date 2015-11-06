@@ -1,3 +1,27 @@
+commit 5028a64b38a7a249eecc3213bd18bd1afbda7651
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Nov 6 14:27:34 2015 -0500
+
+    footer home arreglado
+
+commit e4a20b480da2bfa7548ed12ec0ac5c3fa3283b65
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Nov 6 14:23:20 2015 -0500
+
+    Footer texto arreglado
+
+commit 512b42262c39d267a0e631e050336a8bdaeee2b2
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Nov 6 13:20:55 2015 -0500
+
+    cambio de tamaño en pagina de embasados y mejor alinemamiento
+
+commit fa8ef72c74e900c07b729f7703effe83827835f4
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Nov 6 12:28:18 2015 -0500
+
+    log commits actualizado
+
 commit 0dbbc382bfe531c24914a86e23baeff799c9d539
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Fri Nov 6 12:24:55 2015 -0500

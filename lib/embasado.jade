@@ -16,16 +16,20 @@ body
 			a(href="index.html")
 				img(class="Main-menu_logoB" src="./public/svg/logoGNM.svg", alt="")
 			ul(class="Main-menu_list")
-				l1(class="menu_items") SECTORES QUE SERVIMOS
+				a(href="index.html#sectores")
+					l1(class="menu_items") SECTORES QUE SERVIMOS
 				img(src="./public/images/separadores2.png", alt="")
-				l1(class="menu_items") NUESTROS SERVICIOS
+				a(href="index.html#servicios")
+					l1(class="menu_items") NUESTROS SERVICIOS
 				img(src="./public/images/separadores2.png", alt="")
 				l1(class="Header-nav_items")
 					a(href="embasado.html") SOLUCIONES DE EMBASADO
 				img(src="./public/images/separadores2.png", alt="")
-				l1(class="menu_items") MAQUINARIA
+				a(href="#maquinaria")
+					l1(class="menu_items") MAQUINARIA
 				img(src="./public/images/separadores2.png", alt="")
-				l1(class="menu_items") REPRESENTACIONES
+				a(href="index.html#representaciones")
+					l1(class="menu_items") REPRESENTACIONES
 				// ENCABEZADO
 		div(class="Encabezado")
 			h2 SOLUCIONES DE<br>EMBASADO
@@ -61,7 +65,7 @@ body
 				h1(id="titulazo") TRIPA POLYAMIDA (JAMONES Y MORTADELAS) NOVA
 				p(id="variantes") Datos de prueba
 						
-		div(class="Maquinaria")
+		div(class="Maquinaria" id="maquinaria")
 			h2 MAQUINARIA
 			div(class="Maquinaria-list panel-group" id="accordion" role="tablist" aria-multiselectable="true")
 				div(class="panel panel-default")
