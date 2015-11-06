@@ -48,6 +48,7 @@ body
 	.Encabezado
 		color white
 		display flex
+		font-weight 800 !important
 		justify-content flex-end
 		width 58%
 		height 65px
@@ -59,27 +60,51 @@ body
 			
 	.Embasado
 		display flex
-		justify-content space-around
+		/*justify-content space-around*/
 		height auto
 		width 100%
 		
 		&-list
-			background rgba(0,0,0,0.8)
-			border solid 3px #00FFFF
+			/*border solid 3px #00FFFF*/
 			font-size .9rem
 			height 340px
-			line-height 3rem
-			width 38%
+			margin-left 4rem
+			padding 1rem
+			line-height 2rem
+			width 30%
 			
 		&-list ul
-			padding 0 1rem	
+			padding 0 1rem
+						
+		&-list_button
+			border-radius 1rem
+		&-list_button:hover
+			color #00FFFF
+		
+		/*&-list_sub
+			margin-left 2rem
+			color white	*/
+		.liopciones
+			background rgba(220,217,217,0.83)
+			border solid 1px gray
+			border-radius 1rem
+			padding 1rem
 			
-		&-list_link
-			color white	
+		&-list_embase
+			margin-left 3rem	
+
+		&-list p
+			font-size 1.3rem
+			color black
 		
 		&-info
+			background rgba(0,0,0,0.5)
+			border solid 3px #00FFFF
+			border-radius 1rem
 			color white
-			width 48%
+			padding 1rem
+			width 50%
+			height 250px
 			
 		&-info h1	
 			font-size 2rem
@@ -88,6 +113,10 @@ body
 		&-info li
 			color black
 			padding-left 2rem
+			
+		#titulazo
+			color #00FFFF
+			font-weight 800
 			
 	.Maquinaria
 		display flex
