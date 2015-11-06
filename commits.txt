@@ -1,3 +1,33 @@
+commit 0dbbc382bfe531c24914a86e23baeff799c9d539
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Nov 6 12:24:55 2015 -0500
+
+    fondo ampliado y depuracion de styles embasado
+
+commit 0489ae284cdfd44b4d96be94cfa8265cdb8c77d8
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Nov 6 12:14:18 2015 -0500
+
+    arreglado margenes y tamaño de gallery maquinaria
+
+commit 54d9453d3a1040a654360de8fac0fe400165e44f
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Nov 6 12:03:47 2015 -0500
+
+    Soluciones de embasado programado en datos.js
+
+commit 0238e0f60be2ee96359e215be841846df2c93e3f
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Nov 4 15:41:02 2015 -0500
+
+    eliminamos guias TEST
+
+commit 1290c00902f86198bd6bb11b4f54b373f3575113
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Nov 4 15:38:30 2015 -0500
+
+    tamaños arreglados despues de aplicar Boostrap
+
 commit 9c117c58028116cc35ae884da0108eef68e643a6
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Wed Nov 4 15:15:41 2015 -0500
