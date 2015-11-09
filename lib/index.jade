@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-html(lang="en")
+html(lang="es")
 head
 	meta(charset="UTF-8")
 	title Grupo NM
@@ -7,6 +7,8 @@ head
 	link(rel='stylesheet', type='text/css', href='./public/css/demo.css')
 	link(rel='stylesheet', type='text/css', href='./public/css/slicebox.css')
 	link(rel='stylesheet', type='text/css', href='./public/css/custom.css')
+	link(rel='stylesheet', type='text/css', href='./public/css/common.css')
+	link(rel='stylesheet', type='text/css', href='./public/css/style5.css')
 	script(type='text/javascript', src='./public/js/vendor/modernizr.custom.46884.js')
 	link(rel="stylesheet", href="./public/css/styles.css")
 
@@ -57,25 +59,27 @@ body
 		// SERVICIOS
 
 		div(class="Servicios" id="servicios")
-			p(class="Servicios-titulo") NUESTROS SERVICIOS
-			div(class="Contenedor-circulos")
-				div(class="Contenedor-circulos_arriba")
-					div(class="Servicios-circulos")
-						h2 DISEÑO DE EMPAQUES
-						p DESARROLLO A LA MEDIDA
-					div(class="Servicios-circulos")
-						h2 IMPRESIÓN
-						p 7 COLORES POR LADO, TIPO FOTOGRAFIA PRUEBAS ANTES DE LA IMPRESIÓN
-					div(class="Servicios-circulos")
-						h2 INVESTIGACIÓN
-						p BUSQUEDA CONSTANTE DE NUEVAS ALTERNATIVAS
-				div(class="Contenedor-circulos_abajo")
-					div(class="Servicios-circulos")
-						h2(class="h2-abajo") ASESORÍA CORTES CÁRNICOS
-					div(class="Servicios-circulos")
-						h2(class="h2-abajo") SERVICIO TÉCNICO
-					div(class="Servicios-circulos")
-						h2(class="h2-abajo") CAPACITACIONES Y CURSOS
+			include ../lib/circulos.jade
+		//- div(class="Servicios" id="servicios")
+		//- 	p(class="Servicios-titulo") NUESTROS SERVICIOS
+		//- 	div(class="Contenedor-circulos")
+		//- 		div(class="Contenedor-circulos_arriba")
+		//- 			div(class="Servicios-circulos")
+		//- 				h2 DISEÑO DE EMPAQUES
+		//- 				p DESARROLLO A LA MEDIDA
+		//- 			div(class="Servicios-circulos")
+		//- 				h2 IMPRESIÓN
+		//- 				p 7 COLORES POR LADO, TIPO FOTOGRAFIA PRUEBAS ANTES DE LA IMPRESIÓN
+		//- 			div(class="Servicios-circulos")
+		//- 				h2 INVESTIGACIÓN
+		//- 				p BUSQUEDA CONSTANTE DE NUEVAS ALTERNATIVAS
+		//- 		div(class="Contenedor-circulos_abajo")
+		//- 			div(class="Servicios-circulos")
+		//- 				h2(class="h2-abajo") ASESORÍA CORTES CÁRNICOS
+		//- 			div(class="Servicios-circulos")
+		//- 				h2(class="h2-abajo") SERVICIO TÉCNICO
+		//- 			div(class="Servicios-circulos")
+		//- 				h2(class="h2-abajo") CAPACITACIONES Y CURSOS
 		
 		// MAQUINARIA
 		
