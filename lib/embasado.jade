@@ -8,8 +8,9 @@ head
 	link(rel='stylesheet', type='text/css', href='./public/css/slicebox.css')
 	link(rel='stylesheet', type='text/css', href='./public/css/custom.css')
 	script(type='text/javascript', src='./public/js/vendor/modernizr.custom.46884.js')
-	link(rel="stylesheet", href="./public/bootstrap/css/bootstrap.min.css")
-	link(rel="stylesheet", href="./public/css/styles.css")
+	link(rel='stylesheet', href='./public/bootstrap/css/bootstrap.min.css')
+	link(rel='stylesheet', href='./public/css/gallery.css')
+	link(rel='stylesheet', href='./public/css/styles.css')
 body
 	div(class="Total")
 		div(class="Main-menu")
@@ -78,16 +79,20 @@ body
 							li AREA DE TRABAJO DESDE 300 - 800 MM
 							li APLICACIONES CERDO, RES, Y PESCADO
 							li LIMPIEZADE CUERO Y MEMBRANA
+							label(class="lista2" for="id1")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingTwo")
 						h4(class="panel-title")
-							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo") REBANADORAS DE PESO CONTROLADO   CWS
+							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo") REBANADORAS DE PESO CONTROLADO CWS
 					div(id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo")
 						div(class="panel-body")
 						ul
 							li CORTES PROGRAMABLES
 							li HASTA 10500 LONCHAS POR HORA
 							li CORTES DESDE 30 GRAMOS,CARNE FRESCA
+							label(class="lista2" for="id2")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingThree")
 						h4(class="panel-title")
@@ -97,6 +102,8 @@ body
 						ul
 							li TIRAS Y CUBOS AL MISMO TIEMPO
 							li FILETEADORAS DE CARNE FRESCA CON Y SIN HUESO
+							label(class="lista2" for="id3")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingFour")
 						h4(class="panel-title")
@@ -106,6 +113,8 @@ body
 						ul
 							li TIERNIZADOR DE CARNE
 							li TIRAS Y CUBOS DE CARNE
+							label(class="lista2" for="id4")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingFive")
 						h4(class="panel-title")
@@ -117,6 +126,8 @@ body
 							li 100 % ACERO INOXIDABLE
 							li SISTEMA SENCILLO, UNGER 3  (CORTE DOBLE) 
 							li Y UNGER 5 (CORTE CUADRUPLE)
+							label(class="lista2" for="id5")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingSix")
 						h4(class="panel-title")
@@ -126,6 +137,8 @@ body
 						ul
 							li DESDE 15 - 52 LITROS
 							li 100% ACERO INOXIDABLE
+							label(class="lista2" for="id6")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingSeven")
 						h4(class="panel-title")
@@ -136,6 +149,8 @@ body
 							li DESDE 35 - 275 LITROS
 							li DESDE 20 - 180 KG
 							li 100% ACERO INOXIDABLE
+							label(class="lista2" for="id7")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingEight")
 						h4(class="panel-title")
@@ -146,18 +161,11 @@ body
 							li DESDE 15 - 120 LITROS
 							li DESDE 10 - 90 KG
 							li 100% ACERO INOXIDABLE
-				div(class="panel panel-default")
-					div(class="panel-heading" role="tab" id="headingNine")
-						h4(class="panel-title")
-							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine") CORTADORAS AL POR MENOR
-					div(id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine")
-						div(class="panel-body")
-						ul
-							li TIERNIZADOR DE CARNE
-							li TIRAS Y CUBOS DE CARNE
+							label(class="lista2" for="id8")
+								p Ver imagen
 				div(class="panel panel-default")
 					div(class="panel-heading" role="tab" id="headingTen")
-						h4(class="panel-title")
+						h4(class="panel-title") 
 							a(class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen") MARMITAS
 					div(id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTen")
 						div(class="panel-body")
@@ -165,8 +173,38 @@ body
 							li ELECTRICAS Y GAS
 							li DESDE 165 - 725 LITROS
 							li 100 % ACERO INOXIDABLE
+							label(class="lista2" for="id9")
+								p Ver imagen
 			div(class="Maquinaria-gallery")
-				img(class="Maquinaria-gallery_items" id="" src="./public/images/maquinaria/c35.png")
+				div(class="slider")
+					input#id1(checked='checked', name='slide_switch', type='radio')
+					label(for='id1')
+					img(src='./public/images/maquinaria/cortadoraIndustrial.jpg')
+					input#id2(name='slide_switch', type='radio')
+					label(for='id2')
+					img(src='./public/images/maquinaria/rebanadoracws576.jpg')
+					input#id3(name='slide_switch', type='radio')
+					label(for='id3')
+					img(src='./public/images/maquinaria/cortadoraIndustrial.jpg')
+					input#id4(name='slide_switch', type='radio')
+					label(for='id4')
+					img(src='./public/images/maquinaria/cortadoraxMenor.jpg')
+					input#id5(name='slide_switch', type='radio')
+					label(for='id5')
+					img(src='./public/images/maquinaria/molino.jpg')
+					input#id6(name='slide_switch', type='radio')
+					label(for='id6')
+					img(src='./public/images/maquinaria/embutidoPiston.jpg')
+					input#id7(name='slide_switch', type='radio')
+					label(for='id7')
+					img(src='./public/images/maquinaria/mezcladora.jpg')
+					input#id8(name='slide_switch', type='radio')
+					label(for='id8')
+					img(src='./public/images/maquinaria/cutters.jpg')
+					input#id9(name='slide_switch', type='radio')
+					label(for='id9')
+					img(src='./public/images/maquinaria/css3-image-slider-with-stylized-thumbnails_data/marmitas.jpg')
+
 			// FOOTER
 		div(class="Footer")
 			div(class="Footer-layout")
@@ -194,7 +232,8 @@ body
 				p Epcys y Nova Meats forman parte del 
 					a(href='http://gruponm.com/', class="linkGNM") Grupo NM | 
 					|Todos los derechos reservados © 2015
-			// Script		
+			// Script
+	script(src='./public/images/maquinaria/css3-image-slider-with-stylized-thumbnails_data/prefixfree.js', type='text/javascript')
 	script(src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js')
 	script(src='./public/bootstrap/js/bootstrap.min.js')
 	script(src='./public/js/datos.js')

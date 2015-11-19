@@ -2,15 +2,6 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19051",
 "files": {
-	"\/css\/styles.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/styles.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/embasado.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -28,6 +19,33 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/lib\/circulos.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/lib\/circulos.jade",
+		"outputAbbreviatedPath": "\/lib\/circulos.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/lib\/circulos\/styleCir.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/lib\/circulos\/styleCir.styl",
+		"outputAbbreviatedPath": "\/lib\/css\/styleCir.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
 		},
 	"\/lib\/embasado.html": {
 		"fileType": 8192,
@@ -187,6 +205,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/public\/css\/common.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/css\/common.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/public\/css\/custom.css": {
 		"fileType": 16,
@@ -521,6 +548,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/public\/images\/servicios\/capaci.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23368,
+		"inputAbbreviatedPath": "\/public\/images\/servicios\/capaci.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/servicios\/capaci.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/servicios\/cortes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34754,
+		"inputAbbreviatedPath": "\/public\/images\/servicios\/cortes.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/servicios\/cortes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/servicios\/empaque1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18414,
+		"inputAbbreviatedPath": "\/public\/images\/servicios\/empaque1.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/servicios\/empaque1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/servicios\/impresion.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30488,
+		"inputAbbreviatedPath": "\/public\/images\/servicios\/impresion.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/servicios\/impresion.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/servicios\/inves.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22409,
+		"inputAbbreviatedPath": "\/public\/images\/servicios\/inves.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/servicios\/inves.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/servicios\/st.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31079,
+		"inputAbbreviatedPath": "\/public\/images\/servicios\/st.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/servicios\/st.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/public\/images\/slides\/01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -564,6 +657,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/public\/js\/datos.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/datos.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/datos-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/js\/fbt3.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/fbt3.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/fbt3-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/public\/js\/gallery.js": {
 		"fileType": 64,
