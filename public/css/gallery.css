@@ -11,14 +11,13 @@
 	padding: .5rem;
 }
 .slider{
-	border: solid 1px red;
 	position: relative;
 	width: 600px;
 	height: 400px;
 }
 .slider>img{
 	position: absolute;
-	left: 0; top: 0;
+	left: 10%; top: 0;
 	transition: all 0.5s;
 }
 
@@ -60,4 +59,9 @@ On click the images will be displayed at normal size to complete the effect
 .slider input[name='slide_switch']:checked+label+img {
 	opacity: 1;
 	transform: scale(1);
+}
+
+.centar{
+	display: flex;
+	justify-content: center;
 }
